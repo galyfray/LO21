@@ -3,6 +3,7 @@
 #debug : compile le prgm avec les option de debug puis lance gdb
 #clean , wclean : nettoie les fichier temporaire de compilation wclean est la version pour windows de clean
 #cleanall , wcleanall : nettoie tout les fichiers créer lors de la compilation wcleanall est la version pour windows de cleanall
+#debug , wdebug : compile avec l'argument de debug puis lance gdb
 #=#=#=#=#=#=#=#=#
 
 #compilateur et argument
@@ -50,7 +51,7 @@ clean:
 
 cleanall:
 	@echo Nettoyage de tout les fichiers créer lors de la compilation
-	rm -f -r *.o *~ *.so ./*/*.o ./*/*~ ./*/*.so $(MAIN)
+	rm -f -r *.o *~ *.so ./*/*.o ./*/*~ $(MAIN)
 
 debug: dbg all
 	gdb ./$(MAIN)
@@ -68,3 +69,13 @@ wclean:
 wcleanall:
 	@echo Nettoyage de tout les fichiers créer lors de la compilation
 	del /S *.o *~ *.so $(MAIN).exe
+
+wdebug: dbg all
+	gdb $(MAIN).exe
+
+run:
+	./$(MAIN)
+
+wrun:
+	$(MAIN).exe
+
