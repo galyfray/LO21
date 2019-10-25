@@ -1,3 +1,10 @@
+#=#=#=#=#=#=#=#=#
+#all : compile tout argument default lorsque omis
+#debug : compile le prgm avec les option de debug puis lance gdb
+#clean , wclean : nettoie les fichier temporaire de compilation wclean est la version pour windows de clean
+#cleanall , wcleanall : nettoie tout les fichiers créer lors de la compilation wcleanall est la version pour windows de cleanall
+#=#=#=#=#=#=#=#=#
+
 #compilateur et argument
 CC=gcc
 CFLAGS = -Wall -Werror -pedantic
@@ -26,6 +33,7 @@ all: $(MAIN)
 	@echo Programme compiler: $(MAIN)
 
 $(MAIN): $(TARGET)  $(OBJS) $(DLIBS)
+	@echo compilation du main
 	$(CC) $(CFLAGS) $(INCLUDES) -o $(MAIN) $(TARGET) $(OBJS) $(DLIBS) $(LFLAGS) $(LIBS) 
 
 .c.o:
@@ -53,4 +61,10 @@ CFLAGS+= $(CDEBUGF)
 lib: $(DLIBS)
 	@echo Lib compiler
 
+wclean:
+	@echo Nettoyage des fichier temporaire de compilation
+	del /S *.o *~
 
+wcleanall:
+	@echo Nettoyage de tout les fichiers créer lors de la compilation
+	del /S *.o *~ *.so $(MAIN).exe
