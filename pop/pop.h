@@ -1,4 +1,5 @@
-
+#ifndef __POP_HEADER__
+#define __POP_HEADER__
 #include "..\bit\bits.h"
 #include "..\individu\individu.h"
 
@@ -20,5 +21,4 @@ Elem* elem_init();
 
 Elem* elem_rinit(Elem*);
 
-
-
+#endif

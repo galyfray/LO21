@@ -1,19 +1,18 @@
 
-#include "..\bit\bits.h"
-#include "..\individu\individu.h"
 #include "pop.h"
 #include <time.h>
 #include <stdlib.h>
 #include <stdio.h>
 
-Population pop_init (Elem* Epre, Elem* Eder){
-	Population* Pop=(Population*malloc(sizeof(Population));
+Population pop_init (Elem* Epre, Elem* Eder){// plutot un truc qui contruis une pop de taille n
+	//Population* Pop=(Population*)malloc(sizeof(Population);
+	Population Pop;
 	Pop->start = Epre;
 	Pop->end = Eder;
-	return (Pop*);
+	return (Pop);
 }
 
-Elem* elem_init() {
+Elem* elem_init() { //nan mais non billy non 
 	Elem* E=(Elem*)malloc(sizeof(Elem));
 	E->next = NULL;
 	E->prev = NULL;
@@ -22,11 +21,11 @@ Elem* elem_init() {
 	return (E*);
 }
 
-Elem* elem_init(Elem* Eprev) {
+Elem* elem_rinit(Elem* Eprev) { //c'est pas un poil du foutage de gueule ? nan mais vraiment ?
 	Elem* E=(Elem*)malloc(sizeof(Elem));
 	E->next = NULL:
 	E->prev = Eprev
-	E->individus = Individu_rinit(8);
+	E->individus = Individu_rinit(longIndiv);
 	//E->qual =
 	Eprev->next=E;
 	return (E*);
