@@ -2,12 +2,23 @@
 #include "..\bit\bits.h"
 #include "..\individu\individu.h"
 
-/* Structure représentant une liste chainée d'individu */
-typedef struct BitsList{
+typedef struct elem{
     float qual;
-	Individu Indiv
-    struct BitsList* next;
-	struct BitsList* prev;
+    Individu individus
+    struct elem* next;
+    struct elem* prev;
+} Elem;
+
+typedef struct population {
+    Elem* start;
+    Elem* end;
 } Population;
 
-typedef BitsList* Individu
+Population pop_init ();
+
+Elem* elem_init();
+
+Elem* elem_rinit(Elem*);
+
+
+

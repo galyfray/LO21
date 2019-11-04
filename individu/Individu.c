@@ -1,4 +1,5 @@
 #include "individu.h"
+#include "..\bits\bits.h"
 
 #include <time.h>
 #include <stdlib.h>
@@ -9,10 +10,10 @@ Individu individu_ajoutert(Individu L,Bits* B){
     return B;
 }
 
-Individu individu_rinit(int lenth){
+Individu individu_rinit(int length){
     int i;
     Individu L=NULL;
-    for (i=0;i<lenth;i++){
+    for (i=0;i<length;i++){
         L=individu_ajoutert(L,bits_rinit());
     }
     return L;
@@ -55,9 +56,9 @@ Individu crossBreed(Individu L1,Individu L2 ,float pCroise){
     return L3;
 }
 
-float quality(float Value,float A,float B,int lenth){
+float quality(float Value,float A,float B,int length){
     int i,P=1;
-    for(i=1;i<=lenth;i++){
+    for(i=1;i<=length;i++){
         P=2*P;
     }
     float X=(Value/P)*(B-A)+A;

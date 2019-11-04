@@ -10,25 +10,25 @@ Definition du type Individu:
 #Fin Type
 
 Données:
-lenth un entier décrivant la longeur de la liste chainer de Bits a produire
+length un entier décrivant la longeur de la liste chainer de Bits a produire
 Résultat:
 liste une Individu
 
-fonction individu_rinit(entier lenth) Individu //itérative
+fonction individu_rinit(entier length) Individu //itérative
 Début
 |Individu liste <- créer()
-|pour i de 1 à lenth faire
+|pour i de 1 à length faire
 ||liste<-individu_ajoutert(liste,bits_rinit())
 |fait
 |individu_rinit<-liste
 Fin
 
-fonction individu_rinit(entier lenth) Individu //récurcive
+fonction individu_rinit(entier length) Individu //récurcive
 Début
-|Si lenth <= 0 alors
+|Si length <= 0 alors
 ||individu_rinit <- créer()
 |Sinon
-||individu_rinit <- individu_ajouterq(bits_rinit(lenth-1),bit_rinit())
+||individu_rinit <- individu_ajouterq(bits_rinit(length-1),bit_rinit())
 |Fin Si
 Fin
 
@@ -80,17 +80,17 @@ Fin
 Données
 A,B deux entier paramètre
 Value un entier représentant la valeur d'un individu
-Lenth un entier représente la longueur d'un individu
+length un entier représente la longueur d'un individu
 Résultat:
 quality un réel la qualité de l'individu
 Lexique
 i un entier un compteur
-P un entier permet de calculer 2^lenth
+P un entier permet de calculer 2^length
  
-fonction quality(entier Value,Réel A,Réel B,entier lenth) Réel
+fonction quality(entier Value,Réel A,Réel B,entier length) Réel
 Début
 |entier i,P=1
-|pour i de 1 à lenth faire
+|pour i de 1 à length faire
 ||P=2*P
 |fait
 |réel X<-(x/P)*(B-A)+A
