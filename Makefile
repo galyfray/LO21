@@ -16,7 +16,7 @@ TARGET = LO21.c
 MAIN = LO21
 
 #liste des fichiers .c qui serons transformer en .o
-OSRCS= ./bits/bits.c 
+OSRCS= ./bits/bits.c ./individu/individu.c ./pop/pop.c
 OBJS = $(OSRCS:.c=.o)
 
 #liste des fichier .c qui serons transformer en .so
@@ -24,7 +24,7 @@ LSRCS=
 DLIBS = $(LSRC:.c=.so)
 
 #liste des libs et des dossier ou trouver les lib en plus /usr/lib avec -L
-LIBS = -L./
+LIBS = -L./ -L./bits/
 LFLAG=
 
 #liste des dossiers ou trouver les headers en plus de /usr/include avec -I
@@ -33,17 +33,17 @@ INCLUDES= -I./
 all: $(MAIN)
 	@echo Programme compiler: $(MAIN)
 
-$(MAIN): $(TARGET)  $(OBJS) $(DLIBS)
+$(MAIN): $(TARGET) $(DLIBS) $(OBJS) 
 	@echo compilation du main
 	$(CC) $(CFLAGS) $(INCLUDES) -o $(MAIN) $(TARGET) $(OBJS) $(DLIBS) $(LFLAGS) $(LIBS) 
 
 .c.o:
 	@echo compilage de $< vers $@
-	$(CC) $(CFLAGS) $(INCLUDES) -c $< -o $@
+	$(CC) $(CFLAGS) $(INCLUDES) $(LIBS) -c $< -o $@
 
 .c.so:
 	@echo Création de la Librairie $@
-	$(CC) -shared -o $@ $<
+	$(CC) $(CFLAGS) $(INCLUDES) -shared -o $@ $<
 
 clean:
 	@echo Nettoyage des fichier temporaire de compilation

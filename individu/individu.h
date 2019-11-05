@@ -1,5 +1,5 @@
-#ifndef BITS_CUSTOM_HEADER
-#define BITS_CUSTOM_HEADER
+#ifndef INDIVIDU_CUSTOM_HEADER
+#define INDIVIDU_CUSTOM_HEADER
 
 #include "../bits/bits.h"
 

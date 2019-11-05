@@ -1,11 +1,11 @@
 #ifndef __POP_HEADER__
 #define __POP_HEADER__
-#include "..\bit\bits.h"
-#include "..\individu\individu.h"
+#include "../bits/bits.h"
+#include "../individu/individu.h"
 
 typedef struct elem{
     float qual;
-    Individu individus
+    Individu individus;
     struct elem* next;
     struct elem* prev;
 } Elem;

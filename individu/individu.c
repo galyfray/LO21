@@ -1,5 +1,5 @@
 #include "individu.h"
-#include "..\bits\bits.h"
+#include "../bits/bits.h"
 
 #include <time.h>
 #include <stdlib.h>
