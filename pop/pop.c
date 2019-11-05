@@ -4,11 +4,18 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-Population pop_init (Elem* Epre, Elem* Eder){// plutot un truc qui contruis une pop de taille n
-	//Population* Pop=(Population*)malloc(sizeof(Population);
+Population pop_init (int taillePOP){// plutot un truc qui contruis une pop de taille n
 	Population Pop;
-	Pop->start = Epre;
-	Pop->end = Eder;
+	Elem* Eprev=elem_init();
+	Elem* E;
+	Pop.start = Eprev;
+	for(int i=0;i<(taillePOP-1);i++){
+		E=elem_init();
+		Eprev->next=E;
+		E->prev=Eprev;
+		Eprev=E;
+	}
+	Pop.end = E;
 	return (Pop);
 }
 
@@ -16,24 +23,7 @@ Elem* elem_init() { //nan mais non billy non
 	Elem* E=(Elem*)malloc(sizeof(Elem));
 	E->next = NULL;
 	E->prev = NULL;
-	E->individus = Individu_rinit(8);
-	//E->qual = 
-	return (E*);
-}
-
-Elem* elem_rinit(Elem* Eprev) { //c'est pas un poil du foutage de gueule ? nan mais vraiment ?
-	Elem* E=(Elem*)malloc(sizeof(Elem));
-	E->next = NULL:
-	E->prev = Eprev
 	E->individus = Individu_rinit(longIndiv);
-	//E->qual =
-	Eprev->next=E;
-	return (E*);
+	E->qual = quality(Individu_toint(E->individus),A,B,longIndiv);
+	return (E);
 }
-
-/*
-mettre en mémoire adresse En
-créer En+1
-donner En.next adresse En+1
-Donner En+1.prev adresse En
-*/
