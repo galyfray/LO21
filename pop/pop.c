@@ -4,6 +4,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+#define A -1
+#define B 1
+
 Population pop_init (int taillePOP){// plutot un truc qui contruis une pop de taille n
 	Population Pop;
 	Elem* Eprev=elem_init();
@@ -23,7 +26,7 @@ Elem* elem_init() { //nan mais non billy non
 	Elem* E=(Elem*)malloc(sizeof(Elem));
 	E->next = NULL;
 	E->prev = NULL;
-	E->individus = Individu_rinit(longIndiv);
-	E->qual = quality(Individu_toint(E->individus),A,B,longIndiv);
-	return (E);
+	E->individus = individu_rinit(longIndiv);
+	E->qual = quality(individu_toint(E->individus),A,B,longIndiv);
+	return E ;
 }

@@ -24,7 +24,7 @@ LSRCS=
 DLIBS = $(LSRC:.c=.so)
 
 #liste des libs et des dossier ou trouver les lib en plus /usr/lib avec -L
-LIBS = -L./ -L./bits/
+LIBS = -L./
 LFLAG=
 
 #liste des dossiers ou trouver les headers en plus de /usr/include avec -I
@@ -33,7 +33,7 @@ INCLUDES= -I./
 all: $(MAIN)
 	@echo Programme compiler: $(MAIN)
 
-$(MAIN): $(TARGET) $(DLIBS) $(OBJS) 
+$(MAIN): $(TARGET) $(OBJS) $(DLIBS)
 	@echo compilation du main
 	$(CC) $(CFLAGS) $(INCLUDES) -o $(MAIN) $(TARGET) $(OBJS) $(DLIBS) $(LFLAGS) $(LIBS) 
 

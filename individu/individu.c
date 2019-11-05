@@ -56,12 +56,12 @@ Individu crossBreed(Individu L1,Individu L2 ,float pCroise){
     return L3;
 }
 
-float quality(float Value,float A,float B,int length){
+float quality(int Value,float A,float B,int length){
     int i,P=1;
     for(i=1;i<=length;i++){
         P=2*P;
     }
-    float X=(Value/P)*(B-A)+A;
+    float X=((float)Value/P)*(B-A)+A;
     return (-X)*X;
 }
 

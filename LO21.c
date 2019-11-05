@@ -1,6 +1,6 @@
 #include "./bits/bits.h"
 #include "./pop/pop.h"
-#include "./individu/individu.h.h"
+#include "./individu/individu.h"
 
 int main(){
     int k;
