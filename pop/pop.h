@@ -19,8 +19,6 @@ Population pop_init ();
 
 Elem* elem_init();
 
-Elem* elem_rinit(Elem*);
-
 Population quick(Population);//trie tout Billy TOUT
 
 #endif
