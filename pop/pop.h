@@ -21,4 +21,6 @@ Elem* elem_init();
 
 Population quick(Population);//trie tout Billy TOUT
 
+void tronc(Population, int, int);
+
 #endif
