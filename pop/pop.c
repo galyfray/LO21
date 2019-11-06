@@ -28,19 +28,16 @@ Elem* elem_init() { //nan mais non billy non
 	E->prev = NULL;
 	E->individus = individu_rinit(longIndiv);
 	E->qual = quality(individu_toint(E->individus),A,B,longIndiv);
-	return E ;
+	return (E);
 }
 
 void tronc(Population Pop, int tSelect, int taillePOP) {
 	Elem* Ecpy=Pop.start;
 	Elem* Emob=Pop.start;
-	
 	for(int i=0;i<=tSelect;i++){
 		Emob=Emob->next;
 	}
-	
 	int t=tSelect, int c=0;
-	
 	while(Emob->next!=NULL && t<taillePOP){
 		while(Emob->next!=NULL && c<tSelect){
 			c++;
@@ -50,6 +47,7 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 			Emob=Emob->next;
 			Ecpy=Ecpy->next;
 		}
+		Emob=Emob->next;
 		Ecpy=Pop.start;
 		c=0;
 	}
