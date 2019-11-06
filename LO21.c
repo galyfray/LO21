@@ -3,11 +3,6 @@
 #include "./individu/individu.h"
 
 int main(){
-    int k;
-    for(k=0;k<50;k++){
-        Individu L = individu_rinit(longIndiv);
-        individu_print(L);
-        individu_free(L);
-    }
+    
     return 0;
 }
