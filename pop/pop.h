@@ -15,7 +15,7 @@ typedef struct population {
     Elem* end;
 } Population;
 
-Population pop_init();
+Population pop_init(int);
 
 Elem* elem_init();
 
