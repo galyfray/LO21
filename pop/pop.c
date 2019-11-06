@@ -37,7 +37,7 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 	for(int i=0;i<=tSelect;i++){
 		Emob=Emob->next;
 	}
-	int t=tSelect, int c=0;
+	int t=tSelect, c=0;
 	while(Emob->next!=NULL && t<taillePOP){
 		while(Emob->next!=NULL && c<tSelect){
 			c++;
@@ -51,6 +51,4 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 		Ecpy=Pop.start;
 		c=0;
 	}
-	
-	return(0);
 }
