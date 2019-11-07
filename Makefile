@@ -16,7 +16,7 @@ TARGET = LO21.c
 MAIN = LO21
 
 #liste des fichiers .c qui serons transformer en .o
-OSRCS= ./bits/bits.c ./individu/individu.c ./pop/pop.c
+OSRCS= ./bits/bits.c ./individu/individu.c ./pop/pop.c ./pop/quick.c
 OBJS = $(OSRCS:.c=.o)
 
 #liste des fichier .c qui serons transformer en .so
@@ -73,7 +73,7 @@ wcleanall:
 wdebug: dbg all
 	gdb $(MAIN).exe
 
-run:
+run: $(MAIN)
 	./$(MAIN)
 
 wrun:
