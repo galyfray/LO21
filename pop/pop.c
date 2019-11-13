@@ -7,13 +7,15 @@
 #define A -1
 #define B 1
 
-Population pop_init (int taillePOP){// plutot un truc qui contruis une pop de taille n
+Population pop_init (int taillePOP){
 	Population Pop;
 	Elem* Eprev=elem_init();
 	Elem* E;
 	Pop.start = Eprev;
+	elem_vinit(Eprev);
 	for(int i=0;i<(taillePOP-1);i++){
 		E=elem_init();
+		elem_vinit(E);
 		Eprev->next=E;
 		E->prev=Eprev;
 		Eprev=E;
@@ -22,13 +24,16 @@ Population pop_init (int taillePOP){// plutot un truc qui contruis une pop de ta
 	return (Pop);
 }
 
-Elem* elem_init() { //nan mais non billy non 
+Elem* elem_init() {
 	Elem* E=(Elem*)malloc(sizeof(Elem));
 	E->next = NULL;
 	E->prev = NULL;
+	return (E);
+}
+
+void elem_vinit(Elem* E){
 	E->individus = individu_rinit(longIndiv);
 	E->qual = quality(individu_toint(E->individus),A,B,longIndiv);
-	return (E);
 }
 
 void tronc(Population Pop, int tSelect, int taillePOP) {
@@ -51,4 +56,61 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 		Ecpy=Pop.start;
 		c=0;
 	}
+}
+
+void pop_del(Population pop){
+	Elem* Elem=pop.start;
+	Elem* Elemnext;
+	while (elem!=NULL){
+		Elemnext=Elem->next;
+		individu_free(Elem->individus);
+		free(Elem);
+		Elem=Elemnext;
+	}
+	free(pop);
+}
+
+Population pop_breed(Population pops, int taillePOP,float pcroise){
+	
+	Population pope;
+	Elem* Eprev=elem_init;
+	pope.start=Eprev;
+	Elem* elem1, elem2, Elem;
+	elem1=pops.start;
+	elem2=pops.start;
+	
+	int rg1, rg2,i ;
+	
+	srand(time(0));
+	
+	for(int p=0;p<taillePOP;p++){
+		
+		rg1=(rand()%taillePOP);
+		rg2=rg1;
+		while(rg1==rg2){
+			rg2=(rand()%taillePOP);
+		}
+		
+		for(i=0;i<=rg1;i++){
+			elem1=elem1->next;
+		}
+		
+		for(i=0;i<=rg1;i++){
+			elem2=elem2->next;
+		}
+		
+		Eprev->individus=crossBreed(elem1->individus,elem2->individus,pcroise);
+		Eprev->qual=quality(individu_toint(Elem->individus),A,B,longIndiv);
+		E=elem_init();
+		Eprev->next=E;
+		E->prev=Eprev;
+		Eprev=E;
+		
+		elem1=pops.start;
+		elem2=pops.start;
+	}
+	
+	pope.end=E;
+	//pop_del(pops);
+	return (pope);
 }
