@@ -1,0 +1,98 @@
+Definition du type Individu:
+#Type Individu(Bits)
+#constructeur:
+#|créer             :                 ->Individu, créer une liste vide
+#|individu_ajoutert : Individu x Bits ->Individu, ajoute un Bits en tête de liste
+#|individu_ajouterq : Individu x Bits ->Individu, ajoute un Bits en fin de liste
+#Observateurs et fonctions d’accès
+#|individu_head :Individu -> Bits   ,permet d'accédé a la première place de la liste
+#|individu_toint:Individu -> entier ,décode la liste de Bits et donne la valeur entère correspondante
+#Fin Type
+
+Données:
+length un entier décrivant la longeur de la liste chainer de Bits a produire
+Résultat:
+liste une Individu
+
+fonction individu_rinit(entier length) Individu //itérative
+Début
+|Individu liste <- créer()
+|pour i de 1 à length faire
+||liste<-individu_ajoutert(liste,bits_rinit())
+|fait
+|individu_rinit<-liste
+Fin
+
+fonction individu_rinit(entier length) Individu //récurcive
+Début
+|Si length <= 0 alors
+||individu_rinit <- créer()
+|Sinon
+||individu_rinit <- individu_ajouterq(bits_rinit(length-1),bit_rinit())
+|Fin Si
+Fin
+
+Données
+liste un Bits dont ont doit décodée la valeur les Bits le composant sont ranger par ordre de puissance croissante
+Résultat
+value un entier valeur extraite de liste
+
+fonction individu_toint(Individu liste) entier
+Début
+|entier pow <- 1
+|entier value <- 0
+|Bits elem <-bits_head(liste)
+|tant que elem /= indéfini faire 
+||value <- value + pow*bits_val(elem)
+||pow <- pow*2
+||elem <- bits_next(elem)
+|Fait
+|individu_toint <- value
+Fin
+
+Données
+L1,L2 les BitList a croisé de même longueur
+pCroise : la probabilité de croisement, compris entre 0 et 1,
+résultat 
+L3 une Individu tel qu'il y ai pCroise chance a chaque élément de L3 qu'il provienne de L2
+Lexique
+B1 un Bits élément de L1
+B2 un Bits élément de L2
+Aléat : fonction générant un réel aléatoire compris entre les deux borne qui lui sont donné en paramètre
+
+fonction crossBreed(Bitslist L1,Bitslist L2 ,Réel pCroise) Individu
+Début 
+|Individu L3 = créer()
+|Bits B1<-tete(L1)
+|Bits B2<-tete(L2)
+|tant que B1/=indéfini faire:
+||Si Aléat(0,1)>pCroise Alors
+|||ajouterq(L3,B1)
+||Sinon
+|||L3<-individu_ajouterq(L3,B2)
+||Fin Si
+||B1<-suivant(B1)
+||B2<-suivant(B2)
+|Fait
+|crossBreed<-L3
+Fin
+
+Données
+A,B deux entier paramètre
+Value un entier représentant la valeur d'un individu
+length un entier représente la longueur d'un individu
+Résultat:
+quality un réel la qualité de l'individu
+Lexique
+i un entier un compteur
+P un entier permet de calculer 2^length
+ 
+fonction quality(entier Value,Réel A,Réel B,entier length) Réel
+Début
+|entier i,P=1
+|pour i de 1 à length faire
+||P=2*P
+|fait
+|réel X<-(x/P)*(B-A)+A
+|quality<-(-X)*X
+Fin
