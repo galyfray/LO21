@@ -13,7 +13,9 @@ Individu individu_rinit(int); /*initialise une liste n Bits ayant pour valeur al
 
 int individu_toint(Individu);
 
-Individu crossBreed(Individu,Individu,float);
+Individu individu_copycat(Individu); /*créer une copie d'un individu (c'est comme ça que l'on fait les bébés chinois)*/
+
+Individu individu_breed(Individu,Individu,int);/*remplace les bits de l'individu 1 par ceux de l'individu 2 avec une chance de pcroise% */
 
 float quality(int,float,float,int);
 

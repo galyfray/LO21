@@ -31,31 +31,6 @@ int individu_toint(Individu liste){
     return value;
 }
 
-Individu crossBreed(Individu L1,Individu L2 ,float pCroise){
-    Individu L3 = NULL;
-    srand(time(0));
-    if (L1!=NULL && L2!=NULL){
-       if ((rand()%100)/100.0>pCroise) {
-            L3=bits_init(L1->value);
-       }else{
-            L3=bits_init(L2->value);
-       }
-       
-    }
-    Bits * B3=L3;
-    while(L1!=NULL && L2!=NULL){
-        if ((rand()%100)/100.0>pCroise) {
-            B3->next=bits_init(L1->value);
-        }else{
-            B3->next=bits_init(L2->value);
-        }
-        L1=L1->next;
-        L2=L2->next;
-        B3=B3->next;
-    }
-    return L3;
-}
-
 float quality(int Value,float A,float B,int length){
     int i,P=1;
     for(i=1;i<=length;i++){
@@ -83,4 +58,32 @@ void individu_print(Individu BL){
         BL=BL->next;
     }
     printf("\n#============#\n");
+}
+
+Individu individu_copycat(Individu I){
+    Individu N = NULL;//manque la récup du pointeur de début de nouvelle liste
+    Bits* p=I;
+    if (p){
+        N=bits_init(p->value);
+        p=p->next;
+    }
+    while (p){
+        N->next=bits_init(p->value);
+        N=N->next;
+        p=p->next;
+    }
+    return N;
+}
+
+Individu individu_breed(Individu Breeded,Individu Breeder,int pcroise){
+    srand(time(0);
+    Individus B=Breeded,B2=Breeder;
+    while (B && B1){
+        if (rand()%100<=pcroise){
+            B->value=B2->value;
+        }
+        B=B->next;
+        B2=B2->next;
+    }
+    return Breeded;
 }

@@ -24,7 +24,7 @@ void insert_inbtwn(Elem* prev,Elem* next, Elem* Elm){ //place Elm entre prev et 
     
 }
 
-Population quick(Population pop){
+Population quick(Population pop){//refaire mais en echangeant que les valeur grace a un élément temporaire
     Elem *start = pop.start,*end=pop.end,*swp=pop.start, *tmp=NULL;
     if (start != end && start !=NULL) {
         while (start->qual<end->qual){

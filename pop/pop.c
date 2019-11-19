@@ -70,12 +70,12 @@ void pop_del(Population pop){
 	free(pop);
 }
 
-Population pop_breed(Population pops, int taillePOP,float pcroise){
+Population pop_breed(Population pops, int taillePOP,int pcroise){
 	
 	Population pope;
 	Elem* Eprev=elem_init;
 	pope.start=Eprev;
-	Elem* elem1, elem2, Elem;
+	Elem* elem1, *elem2,*E;
 	elem1=pops.start;
 	elem2=pops.start;
 	
@@ -99,7 +99,8 @@ Population pop_breed(Population pops, int taillePOP,float pcroise){
 			elem2=elem2->next;
 		}
 		
-		Eprev->individus=crossBreed(elem1->individus,elem2->individus,pcroise);
+		Eprev->individus= individu_copycat(elem1->individu);
+		individu_breed(Eprev->individus,elem2,pcroise);
 		Eprev->qual=quality(individu_toint(Elem->individus),A,B,longIndiv);
 		E=elem_init();
 		Eprev->next=E;
