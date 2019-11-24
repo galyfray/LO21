@@ -36,7 +36,7 @@ void elem_vinit(Elem* E){
 	E->qual = quality(individu_toint(E->individus),A,B,longIndiv);
 }
 
-void tronc(Population Pop, int tSelect, int taillePOP) { est niqé
+void tronc(Population Pop, int tSelect, int taillePOP) {
 	Elem* Ecpy=Pop.start;
 	Elem* Emob=Pop.start;
 	for(int i=0;i<=tSelect;i++){
