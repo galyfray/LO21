@@ -61,7 +61,7 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 void pop_del(Population *pop){
 	Elem* Element=pop->start;
 	Elem* Elemnext;
-	while (ElemABRUTI!=NULL){
+	while (Element!=NULL){
 		Elemnext=Element->next;
 		individu_free(Element->individus);
 		free(Element);
