@@ -65,7 +65,7 @@ void pop_del(Population *pop){
 		Elemnext=Element->next;
 		individu_free(Element->individus);
 		free(Element);
-		ElementI=Elemnext;
+		Element=Elemnext;
 	}
 	free(pop);
 }
