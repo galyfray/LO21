@@ -1,83 +1,39 @@
  #include "pop.h"
  #include <stdlib.h>
  
-void extract(Elem* E){//extrait un Elem d'une population tout en conservant l'intégriter de la pop charge a l'utilisateur de mettre a jour les borne start et end de sa pop au besoin
-    if (E->next){
-        E->next->prev=E->prev;
-    }
-    if (E->prev){
-        E->prev->next=E->next;
-    }
-    E->next=NULL;
-    E->prev=NULL;
-}
- 
-void insert_inbtwn(Elem* prev,Elem* next, Elem* Elm){ //place Elm entre prev et next
-    Elm->next=next;
-    Elm->prev=prev;
-    if (prev ){
-        prev->next=Elm;
-    }
-    if (next ){
-        next->prev=Elm;
-    }
-    
-}
-
-Population quick(Population pop){//refaire mais en echangeant que les valeur grace a un élément temporaire
-    Elem *start = pop.start,*end=pop.end,*swp=pop.start, *tmp=NULL;
-    if (start != end && start !=NULL) {
-        while (start->qual<end->qual){
-            tmp=start->next;
-            extract(start);
-            insert_inbtwn(end,end->next,start);
-            end=start;
-            start=tmp;
-            swp=tmp;
-            pop.start=start;
-            pop.end=end;
-        }
-        while (swp != end) {
-            tmp=swp->next;
+Population quick(Population pop){
+    Elem *start=pop.start,*end=pop.end,*swp=pop.start,tmp;
+    if(start != end && start){ // vérifie les cas triviaux liste vide et liste de 1 élément
+        while(swp != end){ //tant que l'itérative est différente du pivot on peut travailler
             if (swp->qual>end->qual){
-                if (swp != start){
-                    extract(swp);
-                    insert_inbtwn(start,start->next,swp);
-                    start=swp;
-                }
+                tmp.qual=swp->qual;
+                tmp.individus = swp->individus;
+                swp->qual=start->qual;
+                swp->individus=start->individus;
+                start->qual=tmp.qual;
+                start->individus=tmp.individus;
+                start=start->next;
             }
-            swp=tmp;
+            swp=swp->next;
+        }
+        if (start != end){//la condition n'est fausse que si la liste est déja trier par rapport au pivot
+            tmp.qual=end->qual;
+            tmp.individus=end->individus;
+            end->qual=start->qual;
+            end->individus=start->individus;
+            start->qual=tmp.qual;
+            start->individus=tmp.individus;
+        } else {
+            start = start->prev; 
         }
         Population A,B;
-        extract(end);
-        insert_inbtwn(start,start->next,end);
+        A.start=pop.start;
         A.end=start;
-        A.start=start;
-        
-        B.end=swp;
-        
-        B.start=A.end->next;
-        
-        while (A.start->prev){
-            A.start=A.start->prev;
-        }
-        while (B.end->next){
-            B.end=B.end->next;
-        }
-        
-        
-        B.start->prev=NULL;
-        A.end->next=NULL;
-        
-        A=quick(A);
-        B=quick(B);
-        
-        pop.start=A.start;
-        A.end->next=B.start;
-        B.start->prev=A.end;
-        pop.end=B.end;
+        B.start=start->next;
+        B.end=pop.end;
+        quick(A);//réafecter la valeur est inutile car quick() ne déplace pas l'ordre des élément mais leur valeur
+        quick(B);
     }
     return pop;
 }
-
 

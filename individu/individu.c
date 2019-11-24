@@ -76,14 +76,14 @@ Individu individu_copycat(Individu I){
 }
 
 Individu individu_breed(Individu Breeded,Individu Breeder,int pcroise){
-    srand(time(0);
-    Individus B=Breeded,B2=Breeder;
-    while (B && B1){
+    srand(time(0));
+    Individu B=Breeded,B2=Breeder;
+    while (B && B2){
         if (rand()%100<=pcroise){
-            B->value=B2->value;
+            (B->value)=(B2->value);
         }
-        B=B->next;
-        B2=B2->next;
+        B=(B->next);
+        B2=(B2->next);
     }
     return Breeded;
 }

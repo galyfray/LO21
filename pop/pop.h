@@ -25,8 +25,8 @@ Population quick(Population);//trie tout Billy TOUT
 
 void tronc(Population, int, int);
 
-void pop_del(Population);
+void pop_del(Population*);
 
-Population pop_breed(Population, int, float);
+Population pop_breed(Population, int, int);
 
 #endif
