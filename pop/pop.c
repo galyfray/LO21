@@ -36,7 +36,7 @@ void elem_vinit(Elem* E){
 	E->qual = quality(individu_toint(E->individus),A,B,longIndiv);
 }
 
-void tronc(Population Pop, int tSelect, int taillePOP/*Il sert a quoi lui ?*/) {//si elle renvoie rien c un passage par adresse la tu modifie pas l'originale ni même la copie donc le pointeur sur la queue est niqé
+void tronc(Population Pop, int tSelect, int taillePOP) {
 	Elem* Ecpy=Pop.start;
 	Elem* Emob=Pop.start;
 	for(int i=0;i<=tSelect;i++){
@@ -58,22 +58,22 @@ void tronc(Population Pop, int tSelect, int taillePOP/*Il sert a quoi lui ?*/) {
 	}
 }
 
-void pop_del(Population *pop){//PUTAIN !! mais on nomme pas une varible du même nom q'un type !!!! 
-	Elem* ElemABRUTI=pop->start;
+void pop_del(Population *pop){
+	Elem* Element=pop->start;
 	Elem* Elemnext;
 	while (ElemABRUTI!=NULL){
-		Elemnext=ElemABRUTI->next;
-		individu_free(ElemABRUTI->individus);
-		free(ElemABRUTI);
-		ElemABRUTI=Elemnext;
+		Elemnext=Element->next;
+		individu_free(Element->individus);
+		free(Element);
+		ElementI=Elemnext;
 	}
 	free(pop);
 }
 
-Population pop_breed(Population pops, int taillePOP,int pcroise){//je sais pas ce que t'as fait mais le compilateur veut pas et je comprend pas
+Population pop_breed(Population pops, int taillePOP,int pcroise){
 	
 	Population pope;
-	Elem* Eprev=NULL/*=elem_init*/;//j'ai mis un truc en attendant pour que ça compile
+	Elem* Eprev=elem_init();
 	pope.start=Eprev;
 	Elem* elem1, *elem2,*E;
 	elem1=pops.start;
@@ -101,7 +101,7 @@ Population pop_breed(Population pops, int taillePOP,int pcroise){//je sais pas c
 		
 		Eprev->individus= individu_copycat(elem1->individus);
 		individu_breed(Eprev->individus,elem2->individus,pcroise);
-		//Eprev->qual=quality(individu_toint(Elem->individus),A,B,longIndiv); Elem est un type ça marche pas 
+		Eprev->qual=quality(individu_toint(Eprev->individus),A,B,longIndiv);
 		E=elem_init();
 		Eprev->next=E;
 		E->prev=Eprev;
