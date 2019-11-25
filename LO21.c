@@ -4,33 +4,30 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+void pop_display(Population);
+
 int main(){
+	Population pp;
     Population p=pop_init(16);
-    Elem * E=p.start;
-    int i;
-    /*int T[4]={3,1,2,4};
-    
-    for(i=0;i<4;i++){
-        E->qual=T[i];
-        E=E->next;
-    }
-    E=p.start;*/
-    i=1;
-    while (E != NULL){
-        printf("%02i:%0.4f|0x%lx\n",i,E->qual,(unsigned long int)E);
-        i++;
-        E=E->next;
-    }
-    
-    //printf("end:%0.4f|0x%lx\n",p.end->qual,(unsigned long int)p.end);
-    printf("#=======================#\n");
-    p=quick(p);
-    E=p.start;
-    i=1;
-    while (E != NULL){
-        printf("%02i:%0.4f|0x%lx\n",i,E->qual,(unsigned long int)E);
-        i++;
-        E=E->next;
-    }
+	pop_display(p);
+    printf("\nPop cree\n\n");
+	p=quick(p);
+	pop_display(p);
+    printf("\nPop triee\n\n");
+	tronc(p,4,16);
+	pop_display(p);
+    printf("\nPop tronque\n\n");
+	pp=pop_breed(p,16,50);
+	pop_display(pp);
+    printf("\nPop croisee\n\n");
     return 0;
+}
+
+
+void pop_display(Population p){
+	Elem *E=p.start;
+	while(E!=p.end){
+		individu_print(E->individus);
+		E=E->next;
+	}
 }
