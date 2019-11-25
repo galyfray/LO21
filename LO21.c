@@ -30,7 +30,7 @@ int main(){
 
 void pop_display(Population p){
 	Elem *E=p.start;
-	while(E!=p.end){
+	while(E!=NULL){
 		individu_print(E->individus);
 		E=E->next;
 	}

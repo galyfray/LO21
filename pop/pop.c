@@ -40,7 +40,7 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 		Emob=Emob->next;
 	}
 	int t=tSelect, c=0;
-	while(Emob->next!=NULL && t<taillePOP){
+	while(Emob->next!=NULL && t<=taillePOP){
 		while(Emob->next!=NULL && c<tSelect){
 			c++;
 			t++;
