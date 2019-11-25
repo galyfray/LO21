@@ -5,9 +5,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-Individu individu_ajoutert(Individu L,Bits* B){
-    B->next=L;
-    return B;
+Individu individu_ajoutert(Individu L,Bits* bit){
+    bit->next=L;
+    return bit;
 }
 
 Individu individu_rinit(int length){
@@ -31,12 +31,12 @@ int individu_toint(Individu liste){
     return value;
 }
 
-float quality(int Value,float A,float B,int length){
+float quality(int Value,float p1,float p2,int length){
     int i,P=1;
     for(i=1;i<=length;i++){
         P=2*P;
     }
-    float X=((float)Value/P)*(B-A)+A;
+    float X=((float)Value/P)*(p2-p1)+p1;
     return (-X)*X;
 }
 
@@ -61,10 +61,11 @@ void individu_print(Individu BL){
 }
 
 Individu individu_copycat(Individu I){
-    Individu N = NULL;//manque la récup du pointeur de début de nouvelle liste
+    Individu N = NULL,Stock=NULL;
     Bits* p=I;
     if (p){
         N=bits_init(p->value);
+        Stock=N;
         p=p->next;
     }
     while (p){
@@ -72,7 +73,7 @@ Individu individu_copycat(Individu I){
         N=N->next;
         p=p->next;
     }
-    return N;
+    return Stock;
 }
 
 Individu individu_breed(Individu Breeded,Individu Breeder,int pcroise){
@@ -85,5 +86,6 @@ Individu individu_breed(Individu Breeded,Individu Breeder,int pcroise){
         B=(B->next);
         B2=(B2->next);
     }
+    Breeded->qual=quality(individu_toint(Breeded),A,B,longIndiv)
     return Breeded;
 }

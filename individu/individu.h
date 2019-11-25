@@ -4,6 +4,8 @@
 #include "../bits/bits.h"
 
 #define longIndiv 8
+#define A -1
+#define B 1
 
 typedef Bits* Individu;
 

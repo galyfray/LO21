@@ -4,9 +4,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define A -1
-#define B 1
-
 Population pop_init (int taillePOP){
 	Population Pop;
 	Elem* Eprev=elem_init();

@@ -7,6 +7,10 @@
 void pop_display(Population);
 
 int main(){
+    Individus indiv=individu_rinit(longIndiv),indiv2;
+    indiv2=copycat(indiv);
+    
+    /*
 	Population pp;
     Population p=pop_init(16);
 	pop_display(p);
@@ -19,7 +23,7 @@ int main(){
     printf("\nPop tronque\n\n");
 	pp=pop_breed(p,16,50);
 	pop_display(pp);
-    printf("\nPop croisee\n\n");
+    printf("\nPop croisee\n\n");*/
     return 0;
 }
 
