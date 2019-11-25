@@ -26,13 +26,13 @@ Population quick(Population pop){
         } else {
             start = start->prev; 
         }
-        Population A,B;
-        A.start=pop.start;
-        A.end=start;
-        B.start=start->next;
-        B.end=pop.end;
-        quick(A);//réafecter la valeur est inutile car quick() ne déplace pas l'ordre des élément mais leur valeur
-        quick(B);
+        Population p1,p2;
+        p1.start=pop.start;
+        p1.end=start;
+        p2.start=start->next;
+        p2.end=pop.end;
+        quick(p1);//réafecter la valeur est inutile car quick() ne déplace pas l'ordre des élément mais leur valeur
+        quick(p2);
     }
     return pop;
 }
