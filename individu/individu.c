@@ -1,7 +1,4 @@
 #include "individu.h"
-#include "../bits/bits.h"
-
-#include <time.h>
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -77,10 +74,9 @@ Individu individu_copycat(Individu I){
 }
 
 Individu individu_breed(Individu Breeded,Individu Breeder,int pcroise){
-    srand(time(0));
     Individu B1=Breeded,B2=Breeder;
     while (B1 && B2){
-        if (rand()%100<=pcroise){
+        if (random()%100<=pcroise){
             (B1->value)=(B2->value);
         }
         B1=(B1->next);

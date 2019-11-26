@@ -1,8 +1,7 @@
 
 #include "pop.h"
-#include <time.h>
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 Population pop_init (int taillePOP){
 	Population Pop;
@@ -78,14 +77,12 @@ Population pop_breed(Population pops, int taillePOP,int pcroise){
 	
 	int rg1, rg2,i ;
 	
-	srand(time(0));
-	
 	for(int p=0;p<taillePOP;p++){
 		
-		rg1=(rand()%taillePOP);
+		rg1=(random()%taillePOP);
 		rg2=rg1;
 		while(rg1==rg2){
-			rg2=(rand()%taillePOP);
+			rg2=(random()%taillePOP);
 		}
 		
 		for(i=0;i<=rg1;i++){

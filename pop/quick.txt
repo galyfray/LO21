@@ -1,0 +1,29 @@
+fonction pop_quick(Pop p) Pop
+Début
+|Elem start<-tête(pop),end<-queue(pop),swp<-tête(pop),tmp
+|si(start != end et start != indéfinit) alors
+||tant que swp!=end faire
+|||si qual(swp)>qual(end) alors
+||||val(tmp)<-val(swp)
+||||val(swp)<-val(start)
+||||val(start)<-val(tmp)
+|||Fin si
+|||swp<-suivant(swp)
+||Fait
+||si start!=end alors
+|||val(tmp)<-val(end)
+|||val(end)<-val(start)
+|||val(start)<-val(tmp)
+||sinon
+|||start<-prev(start)
+||Fin si
+||Pop A,B
+||tête(A)<-tête(pop)
+||queue(A)<-start
+||tête(B)<-suivant(start)
+||queue(B)<-queue(pop)
+||A<-pop_quick(A)
+||B<-pop_quick(B)
+|Fin si
+|pop_quick<-p
+FIN

@@ -1,6 +1,5 @@
-#ifndef __POP_HEADER__
-#define __POP_HEADER__
-#include "../bits/bits.h"
+#ifndef POP_CUSTOM_HEADER
+#define POP_CUSTOM_HEADER
 #include "../individu/individu.h"
 
 typedef struct elem{

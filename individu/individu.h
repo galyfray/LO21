@@ -2,6 +2,7 @@
 #define INDIVIDU_CUSTOM_HEADER
 
 #include "../bits/bits.h"
+#include "random.h"
 
 #define longIndiv 8
 #define A -1

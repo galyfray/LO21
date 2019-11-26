@@ -16,7 +16,7 @@ TARGET = LO21.c
 MAIN = LO21
 
 #liste des fichiers .c qui serons transformer en .o
-OSRCS= ./bits/bits.c ./individu/individu.c ./pop/pop.c ./pop/quick.c
+OSRCS= ./bits/bits.c ./individu/individu.c ./pop/pop.c ./pop/quick.c ./individu/random.c
 OBJS = $(OSRCS:.c=.o)
 
 #liste des fichier .c qui serons transformer en .so
