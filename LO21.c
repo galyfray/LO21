@@ -8,7 +8,7 @@ void pop_display(Population);
 
 int main(){
     
-	Population pp;
+	//Population pp;
     Population p=pop_init(16);
 	pop_display(p);
     printf("\nPop cree\n\n");
@@ -18,9 +18,9 @@ int main(){
 	tronc(p,4,16);
 	pop_display(p);
     printf("\nPop tronque\n\n");
-	pp=pop_breed(p,16,50);
-	pop_display(pp);
-    printf("\nPop croisee\n\n");
+	//pp=pop_breed(p,16,50);
+	//pop_display(pp);
+    //printf("\nPop croisee\n\n");
     return 0;
 }
 
