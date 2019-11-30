@@ -39,16 +39,15 @@ void tronc(Population Pop, int tSelect, int taillePOP) {
 		Emob=Emob->next;
 	}
 	int t=tSelect, c=0;
-	while(Emob->next!=NULL && t<taillePOP){
-		while(Emob->next!=NULL && c<tSelect){
+	while(Emob!=NULL && t<taillePOP){
+		while(Emob!=NULL && c<tSelect){
 			c++;
 			t++;
-			Emob->individus=Ecpy->individus;
+			Emob->individus=individu_copycat(Ecpy->individus);
 			Emob->qual=Ecpy->qual;
 			Emob=Emob->next;
 			Ecpy=Ecpy->next;
 		}
-		Emob=Emob->next;
 		Ecpy=Pop.start;
 		c=0;
 	}
