@@ -7,20 +7,26 @@
 void pop_display(Population);
 
 int main(){
-    
-	//Population pp;
+    int ngen=5;
+	Population pp;
     Population p=pop_init(16);
 	pop_display(p);
-    printf("\nPop cree\n\n");
-	p=quick(p);
-	pop_display(p);
-    printf("\nPop triee\n\n");
-	tronc(p,4,16);
-	pop_display(p);
-    printf("\nPop tronque\n\n");
-	//pp=pop_breed(p,16,50);
-	//pop_display(pp);
-    //printf("\nPop croisee\n\n");
+	printf("\nPop cree\n\n");
+	for(int n=1;n<=ngen;n++){
+		pp=pop_breed(p,16,50);
+		pop_display(pp);
+		printf("\nPop croisee gen %i\n\n",n);
+		p=quick(pp);
+		pop_display(pp);
+		printf("\nPop triee gen %i\n\n",n);
+		tronc(pp,4,16);
+		pop_display(pp);
+		printf("\nPop tronque gen %i\n\n",n);
+		
+		pop_del(p);
+		p=pp;
+		pop_del(pp);
+	}
     return 0;
 }
 
