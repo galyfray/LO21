@@ -95,7 +95,7 @@ Population pop_breed(Population pops, int taillePOP,int pcroise){
 			elem2=elem2->next;
 		}		
 		Eprev->individus= individu_copycat(elem1->individus);
-		//individu_breed(Eprev->individus,elem2->individus,pcroise);
+		individu_breed(Eprev->individus,elem2->individus,pcroise);
 		Eprev->qual=quality(individu_toint(Eprev->individus),A,B,longIndiv);
 		if(p!=taillePOP-1){
 			E=elem_init();

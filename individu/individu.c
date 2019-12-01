@@ -49,7 +49,7 @@ void individu_free(Individu BL){
 void individu_print(Individu BL){
     int V=individu_toint(BL);
     float Q=quality(V,-1,1,longIndiv);
-    printf("#============#\n#Value: %i\n#Quality: %.4f\n#BitList:",V,Q);
+    printf("#============#\n#Pointeur: %08lx\n#Value: %i\n#Quality: %.4f\n#BitList:",(long unsigned int)BL,V,Q);
     while (BL!=NULL){
         printf("%d",BL->value);
         BL=BL->next;
@@ -69,6 +69,9 @@ Individu individu_copycat(Individu I){
         N->next=bits_init(p->value);
         N=N->next;
         p=p->next;
+    }
+    if (N){
+        N->next=NULL;
     }
     return Stock;
 }
