@@ -52,30 +52,63 @@ Fin
 
 Données
 L1,L2 les BitList a croisé de même longueur
-pCroise : la probabilité de croisement, compris entre 0 et 1,
+pCroise : la probabilité de croisement, compris entre 0 et 100,
 résultat 
-L3 une Individu tel qu'il y ai pCroise chance a chaque élément de L3 qu'il provienne de L2
+L1 ayant pcroise% d'élément en provenance de L2
 Lexique
 B1 un Bits élément de L1
 B2 un Bits élément de L2
 Aléat : fonction générant un réel aléatoire compris entre les deux borne qui lui sont donné en paramètre
 
-fonction crossBreed(Bitslist L1,Bitslist L2 ,Réel pCroise) Individu
-Début 
-|Individu L3 = créer()
+fonction individu_breed(Individu L1,Individu L2 ,Réel pCroise) Individu
+Début
 |Bits B1<-tete(L1)
 |Bits B2<-tete(L2)
 |tant que B1/=indéfini faire:
-||Si Aléat(0,1)>pCroise Alors
-|||ajouterq(L3,B1)
-||Sinon
-|||L3<-individu_ajouterq(L3,B2)
+||Si Aléat(0,100)>pCroise Alors
+|||val(B1)<-val(B2)
 ||Fin Si
 ||B1<-suivant(B1)
 ||B2<-suivant(B2)
 |Fait
-|crossBreed<-L3
+|crossBreed<-L2
 Fin
+
+fonction individu_copycat(Individu L) Individu
+Début
+|Bits B1<-tete(L), B2 <- indéfinis
+|Individu Stock <- indéfinis
+|Si (B1/=indéfinis) alors
+||B2=bits_init(val(B1))
+||ajouter_q(Stock,B2)
+||B1<-suivant(B1)
+|FinSi
+|tant que ( B1 /= indéfinis) faire 
+||B2<-bits_init(val(B1))
+||ajouter_q(Stock,B2)
+||B1<-suivant(B1)
+|fait
+|individu_copycat<-Stock
+Fin
+
+Individu individu_copycat(Individu I){
+    Individu N = NULL,Stock=NULL;
+    Bits* p=I;
+    if (p){
+        N=bits_init(p->value);
+        Stock=N;
+        p=p->next;
+    }
+    while (p){
+        N->next=bits_init(p->value);
+        N=N->next;
+        p=p->next;
+    }
+    if (N){
+        N->next=NULL;
+    }
+    return Stock;
+}
 
 Données
 A,B deux entier paramètre
