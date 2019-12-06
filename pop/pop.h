@@ -20,7 +20,7 @@ Elem* elem_init();
 
 void elem_vinit(Elem*);
 
-Population quick(Population);//trie tout Billy TOUT
+Population quick(Population);/*trie la population puis renvoie la version triée, ne bouge que les valeurs donc la réafectation est optionnelle*/
 
 void tronc(Population, int, int);
 

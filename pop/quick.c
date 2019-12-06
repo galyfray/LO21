@@ -36,4 +36,3 @@ Population quick(Population pop){
     }
     return pop;
 }
-
