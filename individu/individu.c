@@ -1,6 +1,7 @@
 #include "individu.h"
 #include <stdlib.h>
 #include <stdio.h>
+#include <math.h>
 
 Individu individu_ajoutert(Individu L,Bits* bit){
     bit->next=L;
@@ -11,14 +12,14 @@ Individu individu_rinit(int length){
     int i;
     Individu L=NULL;
     for (i=0;i<length;i++){
-        L=individu_ajoutert(L,bits_rinit());//créer un bits aléatoirement et l'joute en tete directement
+        L=individu_ajoutert(L,bits_rinit());//créer un bits aléatoirement et l'ajoute en tete directement
     }
     return L;
 }
 
-int individu_toint(Individu liste){
-    int pow = 1;//représente 2^n, c'est plus efficace que d'utilisé pow
-    int value = 0;
+long int individu_toint(Individu liste){
+    long int pow = 1;//représente 2^n, c'est plus efficace que d'utilisé pow
+    long int value = 0;
     Bits* elem = liste;
     while (elem != NULL){ //on part du principe que la liste chainé organise les bits par ordre de puissance croissante
         value = value + pow*elem->value;
@@ -34,7 +35,7 @@ float quality(int Value,float p1,float p2,int length){
         P=2*P;
     }
     float X=((float)Value/P)*(p2-p1)+p1;
-    return (-X)*X;
+    return -1*cos(X);
 }
 
 void individu_free(Individu BL){

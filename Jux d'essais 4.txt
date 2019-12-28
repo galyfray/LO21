@@ -1,0 +1,3225 @@
+génération 0
+#Individu :1
+#
+##Valeur: 3295800626
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 1090804511
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 1955084743
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2607080753
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 339757968
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 734010622
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2261939980
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2174092881
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 3032332732
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2915182363
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 777424931
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 1003815275
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 342248358
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 3772595368
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 56222914
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 1185362910
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 138497307
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 268661965
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2461010918
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2784269402
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 205546845
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 3193900006
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 4082559789
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 1181990384
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 3142144165
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 3801088353
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 4287784702
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 480529065
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2275986563
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2627164792
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 957305960
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 643226601
+##Qualité:nan
+#
+génération 1
+#Individu :1
+#
+##Valeur: 2260208354
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2764219664
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2243550600
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 347848124
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 739668107
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2460367862
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 4179260538
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 550337929
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 151346202
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 1002772603
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2782270748
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 3837950788
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 3126792423
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 880932237
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 4283943854
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 488722597
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 208751898
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2643022524
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 10570763
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 480273037
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 4240451459
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2255730476
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 295060195
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2405737784
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2224039024
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 3217182852
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 801744843
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 259428385
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2260208354
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2764219664
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2243550600
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 347848124
+##Qualité:nan
+#
+génération 2
+#Individu :1
+#
+##Valeur: 2957685778
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 363942113
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2719832288
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2759861360
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 25252906
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2226209904
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2664934526
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 376786874
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 259502120
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 4245386366
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 4267910950
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 4283941543
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 500187540
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 449132923
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 1048735876
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 489779329
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2426583486
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 1955178373
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2405737785
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2757928210
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2560637574
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2781499948
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2548446196
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2224051623
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 3176584636
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2494841570
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 279137323
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2188621796
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2957685778
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 363942113
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2719832288
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2759861360
+##Qualité:nan
+#
+génération 3
+#Individu :1
+#
+##Valeur: 3199226598
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2681341396
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2961323088
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2191611936
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2350982256
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2240303533
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 1879932544
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2230486275
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 290517136
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 796390828
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 376831914
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 3960038518
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 15028026
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2187536166
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2360722556
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2628009221
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 3026232342
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 8606763
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 3195514912
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2155021812
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 413154342
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 492220732
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 99954857
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 345068967
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2474088380
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2325740658
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2271720240
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2665886404
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 3199226598
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2681341396
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2961323088
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2191611936
+##Qualité:nan
+#
+génération 4
+#Individu :1
+#
+##Valeur: 2454267392
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2259024688
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 29861178
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2359157882
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 10575147
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 670061220
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 41418666
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2828756086
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2852912242
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 365850925
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 922046693
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 4027147872
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2187417952
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2192655846
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2271654752
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2842891700
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 446364706
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2787358056
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2351047792
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 714079984
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2159400032
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 480521476
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2560766660
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2330407044
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 224486576
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 912569754
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2223783333
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2255869372
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2454267392
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2259024688
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 29861178
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2359157882
+##Qualité:nan
+#
+génération 5
+#Individu :1
+#
+##Valeur: 2259916136
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 661009184
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2192029032
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2359668002
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2461135926
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2929419056
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 108351733
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 437795840
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 3667554
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 25255210
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 31558955
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2828791538
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 670126757
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 363603212
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2255574436
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 15151214
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2204431200
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2730194280
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2255878964
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 480267557
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2828132402
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2259006832
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2316920338
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2339046788
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 142073760
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 334953257
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 481631328
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 371571000
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2259916136
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 661009184
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2192029032
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2359668002
+##Qualité:nan
+#
+génération 6
+#Individu :1
+#
+##Valeur: 593933664
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2185885202
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 48627495
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 244935168
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 112284832
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2730224930
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2305019780
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 78068832
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 167091497
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2951836196
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2162368570
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 108346720
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 333969256
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2258744680
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2324820336
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 116443445
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 27272493
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 363260684
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2209863529
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 15064995
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2928758818
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 938564260
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 364699912
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2730225522
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2255879222
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 540802674
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 44414014
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2663113266
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 593933664
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2185885202
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 48627495
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 244935168
+##Qualité:nan
+#
+génération 7
+#Individu :1
+#
+##Valeur: 177583156
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2730075432
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2193342322
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2197811047
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2863888674
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 10855724
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2158208818
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 565225275
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 132457773
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 802500864
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 880401056
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 66451297
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 27305279
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 113630499
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 262531588
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2796268906
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2325477744
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 364127497
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 363246860
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2342527013
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 933489196
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2185887526
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 117273928
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2325085489
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 48667939
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 540798050
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2186540554
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 177810448
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 177583156
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2730075432
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2193342322
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2197811047
+##Qualité:nan
+#
+génération 8
+#Individu :1
+#
+##Valeur: 2193210746
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2190081024
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2213537635
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 247856433
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2162943798
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 62240611
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2194765579
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2431921991
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 45262647
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 10855727
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 540796192
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2158212866
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2193204512
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2186540074
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 916708012
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 652868714
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2325461362
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2329930598
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 50327268
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 916694282
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 48612649
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2197421874
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 381930795
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2196766567
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2329935731
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 311866428
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 248853504
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 44406068
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2193210746
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2190081024
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2213537635
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 247856433
+##Qualité:nan
+#
+génération 9
+#Individu :1
+#
+##Valeur: 2190669358
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 618771490
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 61453826
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 48752445
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2193614113
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2330718054
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2157493570
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2734292000
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 112835946
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 381939003
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2259409598
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 49391407
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 48627513
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 113607713
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 247840055
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2179184482
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 249949812
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 921426606
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2361652483
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2860247394
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2196497764
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2801401138
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2197399334
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2193225483
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2195586355
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 44414270
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2214588001
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 114648329
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2190669358
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 618771490
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 61453826
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 48752445
+##Qualité:nan
+#
+génération 10
+#Individu :1
+#
+##Valeur: 2214585953
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 1048304302
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2195324215
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 45724962
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 113635127
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 317299242
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 111013129
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2193205007
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2262036278
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2322327906
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2193351972
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2193220899
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2330716006
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 262792770
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 316791357
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 636072962
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2193209131
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 116469032
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 247577890
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2261374744
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2733221670
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 116749827
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2279718770
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2193811246
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2213656419
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 48756265
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2246162210
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2214326112
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2214585953
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 1048304302
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2195324215
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 45724962
+##Qualité:nan
+#
+génération 11
+#Individu :1
+#
+##Valeur: 2731405088
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 981201446
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2281434913
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 240245695
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 586937346
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2279191590
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 519654830
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 45725442
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2730618678
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 267511362
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2462175030
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2279718690
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2797725478
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2497819178
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2193816895
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2262927160
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2696525322
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 50198114
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2214324066
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2213656417
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 133818144
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 40495978
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2192553481
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 45720867
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2193221390
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2275524466
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2214197047
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2195451748
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2731405088
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 981201446
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2281434913
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 240245695
+##Qualité:nan
+#
+génération 12
+#Individu :1
+#
+##Valeur: 66713393
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 117037750
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 240254975
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2734286706
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2197796385
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2264656747
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2414995318
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2801395558
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2529944416
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2281303846
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2194917154
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 317699599
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 239132479
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 173145015
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2347886154
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2191767339
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 66712887
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 46530086
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2157571680
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2462160182
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 979098550
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 650224934
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2749497122
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2159654409
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 266463050
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2191124230
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 133950979
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2279337915
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 66713393
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 117037750
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 240254975
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2734286706
+##Qualité:nan
+#
+génération 13
+#Individu :1
+#
+##Valeur: 199349866
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 133812786
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 268031670
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2193225265
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2395067702
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2733885282
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 172620470
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 117045051
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2329007414
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2462692640
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2213791522
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 247576375
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 39574198
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2262556599
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 133946038
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2315902491
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2279204798
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 986290102
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 578418682
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2257827755
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 651926310
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2729570082
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 50060214
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2934039590
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2414995318
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 860086066
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2933518326
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2263606050
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 199349866
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 133812786
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 268031670
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2193225265
+##Qualité:nan
+#
+génération 14
+#Individu :1
+#
+##Valeur: 113890870
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 172618546
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2799430582
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2262555558
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 854709808
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2330564394
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 199883446
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2327444023
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2345392830
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2415514486
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2195304880
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2395591963
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2264646322
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2197022578
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 106683326
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2397819682
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 50068406
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 3016351538
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 249167671
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2450103595
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 859567664
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2932993910
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2415511222
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 251263670
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2194921254
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 249667170
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 132764342
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 247575223
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 113890870
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 172618546
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2799430582
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2262555558
+##Qualité:nan
+#
+génération 15
+#Individu :1
+#
+##Valeur: 249148215
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2396127090
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2395708070
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 248634998
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2264650422
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2415126450
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 172620598
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 603047606
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2261360034
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2815156146
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2324298430
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2331638326
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2330710818
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 265417398
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2799290166
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2413424246
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2592716986
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 251262647
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2315885867
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2799434678
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 922339120
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 173666994
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 132764342
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 3018448434
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2262555574
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2932983670
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 105501494
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2397672226
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 249148215
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2396127090
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2395708070
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 248634998
+##Qualité:nan
+#
+génération 16
+#Individu :1
+#
+##Valeur: 785505904
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 184276790
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 721012406
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2331111286
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2196501182
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2397805222
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2324281514
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 248625010
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 2413531830
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 250728118
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2396625654
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2348534374
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2932983666
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2398223986
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2330589730
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2331636278
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 2328491810
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2348415538
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 172620074
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2262563510
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 597289150
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2327966578
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 248100535
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2398353202
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 2398352306
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2278807474
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2395716134
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2413428262
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 785505904
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 184276790
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 721012406
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2331111286
+##Qualité:nan
+#
+génération 17
+#Individu :1
+#
+##Valeur: 251385654
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2261895026
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2392456866
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2398219250
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 785112758
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 651282038
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 721143478
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2868481718
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 786036272
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 2345795174
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 249287478
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2397689398
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2415105718
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2398735094
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 251250358
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2864825202
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 651286386
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2395732774
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2396239414
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 50066366
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2213142306
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 777649450
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 250729398
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2935736930
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 247723702
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2396638966
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2397297270
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2323757610
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 251385654
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2261895026
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2392456866
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2398219250
+##Qualité:nan
+#
+génération 18
+#Individu :1
+#
+##Valeur: 47308658
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 250735538
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 2396122850
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2395060786
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 2868629030
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 116653050
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2924609530
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2264527550
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 117031862
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 250336950
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2263992098
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2345392930
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2934560310
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2330575474
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 2396640818
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 2397830070
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 721147574
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 651286066
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 2397175666
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 251369142
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 248764022
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2396648434
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 2398734068
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2864960370
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 651413046
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2320629358
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2932987442
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 248629046
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 47308658
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 250735538
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 2396122850
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2395060786
+##Qualité:nan
+#
+génération 19
+#Individu :1
+#
+##Valeur: 2322195070
+##Qualité:nan
+#
+#Individu :2
+#
+##Valeur: 2396112438
+##Qualité:nan
+#
+#Individu :3
+#
+##Valeur: 653902390
+##Qualité:nan
+#
+#Individu :4
+#
+##Valeur: 2345790050
+##Qualité:nan
+#
+#Individu :5
+#
+##Valeur: 114417442
+##Qualité:nan
+#
+#Individu :6
+#
+##Valeur: 2193743730
+##Qualité:nan
+#
+#Individu :7
+#
+##Valeur: 2193871650
+##Qualité:nan
+#
+#Individu :8
+#
+##Valeur: 2396641266
+##Qualité:nan
+#
+#Individu :9
+#
+##Valeur: 184278582
+##Qualité:nan
+#
+#Individu :10
+#
+##Valeur: 181526130
+##Qualité:nan
+#
+#Individu :11
+#
+##Valeur: 2398217974
+##Qualité:nan
+#
+#Individu :12
+#
+##Valeur: 2263467634
+##Qualité:nan
+#
+#Individu :13
+#
+##Valeur: 2328484658
+##Qualité:nan
+#
+#Individu :14
+#
+##Valeur: 2396640882
+##Qualité:nan
+#
+#Individu :15
+#
+##Valeur: 653383282
+##Qualité:nan
+#
+#Individu :16
+#
+##Valeur: 785630838
+##Qualité:nan
+#
+#Individu :17
+#
+##Valeur: 115594174
+##Qualité:nan
+#
+#Individu :18
+#
+##Valeur: 2396112690
+##Qualité:nan
+#
+#Individu :19
+#
+##Valeur: 788258354
+##Qualité:nan
+#
+#Individu :20
+#
+##Valeur: 2396640816
+##Qualité:nan
+#
+#Individu :21
+#
+##Valeur: 2396762678
+##Qualité:nan
+#
+#Individu :22
+#
+##Valeur: 2412502834
+##Qualité:nan
+#
+#Individu :23
+#
+##Valeur: 785637106
+##Qualité:nan
+#
+#Individu :24
+#
+##Valeur: 2397816564
+##Qualité:nan
+#
+#Individu :25
+#
+##Valeur: 248763186
+##Qualité:nan
+#
+#Individu :26
+#
+##Valeur: 2263992182
+##Qualité:nan
+#
+#Individu :27
+#
+##Valeur: 2264003198
+##Qualité:nan
+#
+#Individu :28
+#
+##Valeur: 2414598962
+##Qualité:nan
+#
+#Individu :29
+#
+##Valeur: 2322195070
+##Qualité:nan
+#
+#Individu :30
+#
+##Valeur: 2396112438
+##Qualité:nan
+#
+#Individu :31
+#
+##Valeur: 653902390
+##Qualité:nan
+#
+#Individu :32
+#
+##Valeur: 2345790050
+##Qualité:nan
+#
+Meilleur individu de la population avec 32 individu, 20 génération, 28 meilleurs individus séléctionné et un breed à 50 de croisement à :
+ -une valeur de :2397818418
+ -une qualité de nan
+
+la valeur optimal de 2³²-1 n'est pas atteinte et de loin, malgrés que la qualité refuse d'être affiché le tri semble s'être belle est bien fait 

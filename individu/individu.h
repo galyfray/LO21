@@ -4,9 +4,9 @@
 #include "../bits/bits.h"
 #include "random.h"
 
-#define longIndiv 8
-#define A -1
-#define B 1
+#define longIndiv 32
+#define A -3.141592653589793238462643383279502884197169399375105820974944
+#define B 3.141592653589793238462643383279502884197169399375105820974944
 
 typedef Bits* Individu;
 
@@ -14,7 +14,7 @@ Individu individu_ajoutert(Individu,Bits*); /*ajout un Bits en tête a un Individ
 
 Individu individu_rinit(int); /*initialise une liste n Bits ayant pour valeur aléatoirement 0 ou 1*/
 
-int individu_toint(Individu); /*calcule la valeur d'un individu en transformant ça chaîne de bits un en scalaire en base 10*/
+long int individu_toint(Individu); /*calcule la valeur d'un individu en transformant ça chaîne de bits un en scalaire en base 10*/
 
 Individu individu_copycat(Individu); /*créer une copie de l'individu envoyer en paramètre, la copie est l'individu renvoyer par la fonction*/
 

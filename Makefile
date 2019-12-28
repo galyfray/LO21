@@ -20,12 +20,12 @@ OSRCS= ./bits/bits.c ./individu/individu.c ./pop/pop.c ./pop/quick.c ./individu/
 OBJS = $(OSRCS:.c=.o)
 
 #liste des fichier .c qui serons transformer en .so
-LSRCS= 
+LSRCS=
 DLIBS = $(LSRC:.c=.so)
 
 #liste des libs et des dossier ou trouver les lib en plus /usr/lib avec -L
 LIBS = -L./
-LFLAG=
+LFLAGS= -lm
 
 #liste des dossiers ou trouver les headers en plus de /usr/include avec -I
 INCLUDES= -I./
@@ -39,7 +39,7 @@ $(MAIN): $(TARGET) $(OBJS) $(DLIBS)
 
 .c.o:
 	@echo compilage de $< vers $@
-	$(CC) $(CFLAGS) $(INCLUDES) $(LIBS) -c $< -o $@
+	$(CC) $(CFLAGS) $(INCLUDES) $(LIBS) $(LFLAGS) -c $< -o $@
 
 .c.so:
 	@echo Création de la Librairie $@

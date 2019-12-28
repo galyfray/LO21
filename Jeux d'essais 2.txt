@@ -1,0 +1,6449 @@
+génération 0
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 3
+##Qualité:-0.953674
+#
+#Individu :3
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :4
+#
+##Valeur: 226
+##Qualité:-0.586182
+#
+#Individu :5
+#
+##Valeur: 28
+##Qualité:-0.610352
+#
+#Individu :6
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 79
+##Qualité:-0.146545
+#
+#Individu :9
+#
+##Valeur: 82
+##Qualité:-0.129150
+#
+#Individu :10
+#
+##Valeur: 220
+##Qualité:-0.516602
+#
+#Individu :11
+#
+##Valeur: 64
+##Qualité:-0.250000
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 62
+##Qualité:-0.265869
+#
+#Individu :14
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :15
+#
+##Valeur: 254
+##Qualité:-0.968994
+#
+#Individu :16
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :17
+#
+##Valeur: 197
+##Qualité:-0.290588
+#
+#Individu :18
+#
+##Valeur: 19
+##Qualité:-0.725159
+#
+#Individu :19
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :20
+#
+##Valeur: 27
+##Qualité:-0.622620
+#
+#Individu :21
+#
+##Valeur: 235
+##Qualité:-0.698792
+#
+#Individu :22
+#
+##Valeur: 75
+##Qualité:-0.171448
+#
+#Individu :23
+#
+##Valeur: 68
+##Qualité:-0.219727
+#
+#Individu :24
+#
+##Valeur: 20
+##Qualité:-0.711914
+#
+#Individu :25
+#
+##Valeur: 22
+##Qualité:-0.685791
+#
+#Individu :26
+#
+##Valeur: 78
+##Qualité:-0.152588
+#
+#Individu :27
+#
+##Valeur: 68
+##Qualité:-0.219727
+#
+#Individu :28
+#
+##Valeur: 136
+##Qualité:-0.003906
+#
+#Individu :29
+#
+##Valeur: 41
+##Qualité:-0.461975
+#
+#Individu :30
+#
+##Valeur: 59
+##Qualité:-0.290588
+#
+#Individu :31
+#
+##Valeur: 168
+##Qualité:-0.097656
+#
+#Individu :32
+#
+##Valeur: 9
+##Qualité:-0.864319
+#
+génération 1
+#Individu :1
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :2
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :3
+#
+##Valeur: 139
+##Qualité:-0.007385
+#
+#Individu :4
+#
+##Valeur: 139
+##Qualité:-0.007385
+#
+#Individu :5
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :6
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :7
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :8
+#
+##Valeur: 145
+##Qualité:-0.017639
+#
+#Individu :9
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :10
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :11
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :12
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :13
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :14
+#
+##Valeur: 84
+##Qualité:-0.118164
+#
+#Individu :15
+#
+##Valeur: 70
+##Qualité:-0.205322
+#
+#Individu :16
+#
+##Valeur: 70
+##Qualité:-0.205322
+#
+#Individu :17
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :18
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :19
+#
+##Valeur: 139
+##Qualité:-0.007385
+#
+#Individu :20
+#
+##Valeur: 139
+##Qualité:-0.007385
+#
+#Individu :21
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :22
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :23
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :24
+#
+##Valeur: 145
+##Qualité:-0.017639
+#
+#Individu :25
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :26
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :27
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :28
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :29
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :30
+#
+##Valeur: 84
+##Qualité:-0.118164
+#
+#Individu :31
+#
+##Valeur: 70
+##Qualité:-0.205322
+#
+#Individu :32
+#
+##Valeur: 70
+##Qualité:-0.205322
+#
+génération 2
+#Individu :1
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :2
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :3
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :4
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :5
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :6
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :7
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :8
+#
+##Valeur: 148
+##Qualité:-0.024414
+#
+#Individu :9
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+#Individu :10
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :11
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :12
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :13
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :14
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :15
+#
+##Valeur: 158
+##Qualité:-0.054932
+#
+#Individu :16
+#
+##Valeur: 158
+##Qualité:-0.054932
+#
+#Individu :17
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :18
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :19
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :20
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :21
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :22
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :23
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :24
+#
+##Valeur: 148
+##Qualité:-0.024414
+#
+#Individu :25
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+#Individu :26
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :27
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :28
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :29
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :30
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :31
+#
+##Valeur: 158
+##Qualité:-0.054932
+#
+#Individu :32
+#
+##Valeur: 158
+##Qualité:-0.054932
+#
+génération 3
+#Individu :1
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :3
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :4
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :5
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :6
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :7
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :8
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :9
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+#Individu :10
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :11
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :12
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :13
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :14
+#
+##Valeur: 105
+##Qualité:-0.032288
+#
+#Individu :15
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :16
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+#Individu :17
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :19
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :20
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :21
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :22
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :23
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :24
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :25
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+#Individu :26
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :27
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :28
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :29
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :30
+#
+##Valeur: 105
+##Qualité:-0.032288
+#
+#Individu :31
+#
+##Valeur: 151
+##Qualité:-0.032288
+#
+#Individu :32
+#
+##Valeur: 156
+##Qualité:-0.047852
+#
+génération 4
+#Individu :1
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :2
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :3
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :4
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :5
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :6
+#
+##Valeur: 140
+##Qualité:-0.008789
+#
+#Individu :7
+#
+##Valeur: 143
+##Qualité:-0.013733
+#
+#Individu :8
+#
+##Valeur: 143
+##Qualité:-0.013733
+#
+#Individu :9
+#
+##Valeur: 143
+##Qualité:-0.013733
+#
+#Individu :10
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+#Individu :11
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :12
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :13
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :14
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :15
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :16
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :17
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :18
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :19
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :20
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :21
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :22
+#
+##Valeur: 140
+##Qualité:-0.008789
+#
+#Individu :23
+#
+##Valeur: 143
+##Qualité:-0.013733
+#
+#Individu :24
+#
+##Valeur: 143
+##Qualité:-0.013733
+#
+#Individu :25
+#
+##Valeur: 143
+##Qualité:-0.013733
+#
+#Individu :26
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+#Individu :27
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :28
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :29
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :30
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :31
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+#Individu :32
+#
+##Valeur: 150
+##Qualité:-0.029541
+#
+génération 5
+#Individu :1
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :2
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :3
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :4
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :5
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :6
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :7
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :8
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :9
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :10
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :11
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :12
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :13
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :14
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :15
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :16
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+#Individu :17
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :18
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :19
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :20
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :21
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :22
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :23
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :24
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :25
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :26
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :27
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :28
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :29
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :30
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :31
+#
+##Valeur: 135
+##Qualité:-0.002991
+#
+#Individu :32
+#
+##Valeur: 142
+##Qualité:-0.011963
+#
+génération 6
+#Individu :1
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :2
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :3
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :4
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :5
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :6
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :7
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :8
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :9
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :10
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :11
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :12
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :13
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :14
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :15
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :16
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :17
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :18
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :19
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :20
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :21
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :22
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :23
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :24
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :25
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :26
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :27
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :28
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :29
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :30
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :31
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :32
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+génération 7
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :6
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :7
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :8
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :9
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :10
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :11
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :12
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :13
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :14
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :15
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :16
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :22
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :23
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :24
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :25
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :26
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :27
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :28
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :29
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :30
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :31
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+#Individu :32
+#
+##Valeur: 134
+##Qualité:-0.002197
+#
+génération 8
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :14
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :15
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :16
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :30
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :31
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+#Individu :32
+#
+##Valeur: 133
+##Qualité:-0.001526
+#
+génération 9
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 10
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 11
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 12
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 13
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 14
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 15
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 16
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 17
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 18
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+génération 19
+#Individu :1
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :2
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :4
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :8
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :9
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :10
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :11
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :12
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :14
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :15
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :16
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :17
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :18
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :19
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :20
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :21
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :22
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :23
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :24
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :25
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :26
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :27
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :28
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :29
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :30
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+#Individu :32
+#
+##Valeur: 132
+##Qualité:-0.000977
+#
+Meilleur individu de la population avec 32 individu, 20 génération, 16 meilleurs individus séléctionné et un breed à 50 de croisement à :
+ -une valeur de :132
+ -une qualité de -0.000977
+génération 0
+#Individu :1
+#
+##Valeur: 66
+##Qualité:-0.234619
+#
+#Individu :2
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :3
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :4
+#
+##Valeur: 56
+##Qualité:-0.316406
+#
+#Individu :5
+#
+##Valeur: 4
+##Qualité:-0.938477
+#
+#Individu :6
+#
+##Valeur: 214
+##Qualité:-0.451416
+#
+#Individu :7
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :8
+#
+##Valeur: 219
+##Qualité:-0.505432
+#
+#Individu :9
+#
+##Valeur: 248
+##Qualité:-0.878906
+#
+#Individu :10
+#
+##Valeur: 189
+##Qualité:-0.227112
+#
+#Individu :11
+#
+##Valeur: 66
+##Qualité:-0.234619
+#
+#Individu :12
+#
+##Valeur: 225
+##Qualité:-0.574280
+#
+#Individu :13
+#
+##Valeur: 201
+##Qualité:-0.325256
+#
+#Individu :14
+#
+##Valeur: 25
+##Qualité:-0.647522
+#
+#Individu :15
+#
+##Valeur: 108
+##Qualité:-0.024414
+#
+#Individu :16
+#
+##Valeur: 75
+##Qualité:-0.171448
+#
+#Individu :17
+#
+##Valeur: 49
+##Qualité:-0.380920
+#
+#Individu :18
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :19
+#
+##Valeur: 83
+##Qualité:-0.123596
+#
+#Individu :20
+#
+##Valeur: 116
+##Qualité:-0.008789
+#
+#Individu :21
+#
+##Valeur: 176
+##Qualité:-0.140625
+#
+#Individu :22
+#
+##Valeur: 228
+##Qualité:-0.610352
+#
+#Individu :23
+#
+##Valeur: 48
+##Qualité:-0.390625
+#
+#Individu :24
+#
+##Valeur: 211
+##Qualité:-0.420471
+#
+#Individu :25
+#
+##Valeur: 108
+##Qualité:-0.024414
+#
+#Individu :26
+#
+##Valeur: 65
+##Qualité:-0.242249
+#
+#Individu :27
+#
+##Valeur: 91
+##Qualité:-0.083557
+#
+#Individu :28
+#
+##Valeur: 194
+##Qualité:-0.265869
+#
+#Individu :29
+#
+##Valeur: 164
+##Qualité:-0.079102
+#
+#Individu :30
+#
+##Valeur: 189
+##Qualité:-0.227112
+#
+#Individu :31
+#
+##Valeur: 130
+##Qualité:-0.000244
+#
+#Individu :32
+#
+##Valeur: 149
+##Qualité:-0.026917
+#
+génération 1
+#Individu :1
+#
+##Valeur: 129
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 122
+##Qualité:-0.002197
+#
+#Individu :3
+#
+##Valeur: 116
+##Qualité:-0.008789
+#
+#Individu :4
+#
+##Valeur: 116
+##Qualité:-0.008789
+#
+#Individu :5
+#
+##Valeur: 145
+##Qualité:-0.017639
+#
+#Individu :6
+#
+##Valeur: 106
+##Qualité:-0.029541
+#
+#Individu :7
+#
+##Valeur: 153
+##Qualité:-0.038147
+#
+#Individu :8
+#
+##Valeur: 91
+##Qualité:-0.083557
+#
+#Individu :9
+#
+##Valeur: 85
+##Qualité:-0.112854
+#
+#Individu :10
+#
+##Valeur: 83
+##Qualité:-0.123596
+#
+#Individu :11
+#
+##Valeur: 176
+##Qualité:-0.140625
+#
+#Individu :12
+#
+##Valeur: 78
+##Qualité:-0.152588
+#
+#Individu :13
+#
+##Valeur: 76
+##Qualité:-0.165039
+#
+#Individu :14
+#
+##Valeur: 181
+##Qualité:-0.171448
+#
+#Individu :15
+#
+##Valeur: 74
+##Qualité:-0.177979
+#
+#Individu :16
+#
+##Valeur: 74
+##Qualité:-0.177979
+#
+#Individu :17
+#
+##Valeur: 191
+##Qualité:-0.242249
+#
+#Individu :18
+#
+##Valeur: 64
+##Qualité:-0.250000
+#
+#Individu :19
+#
+##Valeur: 64
+##Qualité:-0.250000
+#
+#Individu :20
+#
+##Valeur: 194
+##Qualité:-0.265869
+#
+#Individu :21
+#
+##Valeur: 57
+##Qualité:-0.307678
+#
+#Individu :22
+#
+##Valeur: 209
+##Qualité:-0.400452
+#
+#Individu :23
+#
+##Valeur: 44
+##Qualité:-0.430664
+#
+#Individu :24
+#
+##Valeur: 214
+##Qualité:-0.451416
+#
+#Individu :25
+#
+##Valeur: 220
+##Qualité:-0.516602
+#
+#Individu :26
+#
+##Valeur: 25
+##Qualité:-0.647522
+#
+#Individu :27
+#
+##Valeur: 25
+##Qualité:-0.647522
+#
+#Individu :28
+#
+##Valeur: 232
+##Qualité:-0.660156
+#
+#Individu :29
+#
+##Valeur: 129
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 122
+##Qualité:-0.002197
+#
+#Individu :31
+#
+##Valeur: 116
+##Qualité:-0.008789
+#
+#Individu :32
+#
+##Valeur: 116
+##Qualité:-0.008789
+#
+génération 2
+#Individu :1
+#
+##Valeur: 128
+##Qualité:-0.000000
+#
+#Individu :2
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :3
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :4
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :5
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :6
+#
+##Valeur: 112
+##Qualité:-0.015625
+#
+#Individu :7
+#
+##Valeur: 145
+##Qualité:-0.017639
+#
+#Individu :8
+#
+##Valeur: 159
+##Qualité:-0.058655
+#
+#Individu :9
+#
+##Valeur: 96
+##Qualité:-0.062500
+#
+#Individu :10
+#
+##Valeur: 94
+##Qualité:-0.070557
+#
+#Individu :11
+#
+##Valeur: 92
+##Qualité:-0.079102
+#
+#Individu :12
+#
+##Valeur: 164
+##Qualité:-0.079102
+#
+#Individu :13
+#
+##Valeur: 91
+##Qualité:-0.083557
+#
+#Individu :14
+#
+##Valeur: 90
+##Qualité:-0.088135
+#
+#Individu :15
+#
+##Valeur: 84
+##Qualité:-0.118164
+#
+#Individu :16
+#
+##Valeur: 78
+##Qualité:-0.152588
+#
+#Individu :17
+#
+##Valeur: 78
+##Qualité:-0.152588
+#
+#Individu :18
+#
+##Valeur: 78
+##Qualité:-0.152588
+#
+#Individu :19
+#
+##Valeur: 74
+##Qualité:-0.177979
+#
+#Individu :20
+#
+##Valeur: 187
+##Qualité:-0.212463
+#
+#Individu :21
+#
+##Valeur: 66
+##Qualité:-0.234619
+#
+#Individu :22
+#
+##Valeur: 193
+##Qualité:-0.257874
+#
+#Individu :23
+#
+##Valeur: 56
+##Qualité:-0.316406
+#
+#Individu :24
+#
+##Valeur: 53
+##Qualité:-0.343323
+#
+#Individu :25
+#
+##Valeur: 51
+##Qualité:-0.361877
+#
+#Individu :26
+#
+##Valeur: 209
+##Qualité:-0.400452
+#
+#Individu :27
+#
+##Valeur: 211
+##Qualité:-0.420471
+#
+#Individu :28
+#
+##Valeur: 217
+##Qualité:-0.483459
+#
+#Individu :29
+#
+##Valeur: 128
+##Qualité:-0.000000
+#
+#Individu :30
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :31
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :32
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+génération 3
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :3
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :4
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :5
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :6
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :7
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :8
+#
+##Valeur: 117
+##Qualité:-0.007385
+#
+#Individu :9
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :10
+#
+##Valeur: 145
+##Qualité:-0.017639
+#
+#Individu :11
+#
+##Valeur: 145
+##Qualité:-0.017639
+#
+#Individu :12
+#
+##Valeur: 147
+##Qualité:-0.022034
+#
+#Individu :13
+#
+##Valeur: 147
+##Qualité:-0.022034
+#
+#Individu :14
+#
+##Valeur: 154
+##Qualité:-0.041260
+#
+#Individu :15
+#
+##Valeur: 160
+##Qualité:-0.062500
+#
+#Individu :16
+#
+##Valeur: 160
+##Qualité:-0.062500
+#
+#Individu :17
+#
+##Valeur: 92
+##Qualité:-0.079102
+#
+#Individu :18
+#
+##Valeur: 90
+##Qualité:-0.088135
+#
+#Individu :19
+#
+##Valeur: 88
+##Qualité:-0.097656
+#
+#Individu :20
+#
+##Valeur: 76
+##Qualité:-0.165039
+#
+#Individu :21
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :22
+#
+##Valeur: 71
+##Qualité:-0.198303
+#
+#Individu :23
+#
+##Valeur: 70
+##Qualité:-0.205322
+#
+#Individu :24
+#
+##Valeur: 68
+##Qualité:-0.219727
+#
+#Individu :25
+#
+##Valeur: 57
+##Qualité:-0.307678
+#
+#Individu :26
+#
+##Valeur: 55
+##Qualité:-0.325256
+#
+#Individu :27
+#
+##Valeur: 215
+##Qualité:-0.461975
+#
+#Individu :28
+#
+##Valeur: 216
+##Qualité:-0.472656
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :31
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :32
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+génération 4
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :4
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :5
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :6
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :7
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :8
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :9
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :10
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :11
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :12
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :13
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :14
+#
+##Valeur: 118
+##Qualité:-0.006104
+#
+#Individu :15
+#
+##Valeur: 117
+##Qualité:-0.007385
+#
+#Individu :16
+#
+##Valeur: 116
+##Qualité:-0.008789
+#
+#Individu :17
+#
+##Valeur: 112
+##Qualité:-0.015625
+#
+#Individu :18
+#
+##Valeur: 147
+##Qualité:-0.022034
+#
+#Individu :19
+#
+##Valeur: 152
+##Qualité:-0.035156
+#
+#Individu :20
+#
+##Valeur: 95
+##Qualité:-0.066467
+#
+#Individu :21
+#
+##Valeur: 163
+##Qualité:-0.074768
+#
+#Individu :22
+#
+##Valeur: 168
+##Qualité:-0.097656
+#
+#Individu :23
+#
+##Valeur: 84
+##Qualité:-0.118164
+#
+#Individu :24
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :25
+#
+##Valeur: 69
+##Qualité:-0.212463
+#
+#Individu :26
+#
+##Valeur: 57
+##Qualité:-0.307678
+#
+#Individu :27
+#
+##Valeur: 56
+##Qualité:-0.316406
+#
+#Individu :28
+#
+##Valeur: 51
+##Qualité:-0.361877
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :32
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+génération 5
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :4
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :5
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :6
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :7
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :8
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :9
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :10
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :11
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :12
+#
+##Valeur: 139
+##Qualité:-0.007385
+#
+#Individu :13
+#
+##Valeur: 117
+##Qualité:-0.007385
+#
+#Individu :14
+#
+##Valeur: 115
+##Qualité:-0.010315
+#
+#Individu :15
+#
+##Valeur: 114
+##Qualité:-0.011963
+#
+#Individu :16
+#
+##Valeur: 157
+##Qualité:-0.051331
+#
+#Individu :17
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :18
+#
+##Valeur: 83
+##Qualité:-0.123596
+#
+#Individu :19
+#
+##Valeur: 179
+##Qualité:-0.158752
+#
+#Individu :20
+#
+##Valeur: 184
+##Qualité:-0.191406
+#
+#Individu :21
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :22
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :23
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :24
+#
+##Valeur: 189
+##Qualité:-0.227112
+#
+#Individu :25
+#
+##Valeur: 56
+##Qualité:-0.316406
+#
+#Individu :26
+#
+##Valeur: 40
+##Qualité:-0.472656
+#
+#Individu :27
+#
+##Valeur: 217
+##Qualité:-0.483459
+#
+#Individu :28
+#
+##Valeur: 220
+##Qualité:-0.516602
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :32
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+génération 6
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :3
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :4
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :5
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :6
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :7
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :8
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :9
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :10
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :11
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :12
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :13
+#
+##Valeur: 119
+##Qualité:-0.004944
+#
+#Individu :14
+#
+##Valeur: 141
+##Qualité:-0.010315
+#
+#Individu :15
+#
+##Valeur: 115
+##Qualité:-0.010315
+#
+#Individu :16
+#
+##Valeur: 104
+##Qualité:-0.035156
+#
+#Individu :17
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :18
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :19
+#
+##Valeur: 91
+##Qualité:-0.083557
+#
+#Individu :20
+#
+##Valeur: 83
+##Qualité:-0.123596
+#
+#Individu :21
+#
+##Valeur: 177
+##Qualité:-0.146545
+#
+#Individu :22
+#
+##Valeur: 184
+##Qualité:-0.191406
+#
+#Individu :23
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :24
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :25
+#
+##Valeur: 61
+##Qualité:-0.273987
+#
+#Individu :26
+#
+##Valeur: 57
+##Qualité:-0.307678
+#
+#Individu :27
+#
+##Valeur: 40
+##Qualité:-0.472656
+#
+#Individu :28
+#
+##Valeur: 217
+##Qualité:-0.483459
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :31
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :32
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+génération 7
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :7
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :8
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :9
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :10
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :11
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :12
+#
+##Valeur: 124
+##Qualité:-0.000977
+#
+#Individu :13
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :14
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :15
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :16
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :17
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :18
+#
+##Valeur: 108
+##Qualité:-0.024414
+#
+#Individu :19
+#
+##Valeur: 104
+##Qualité:-0.035156
+#
+#Individu :20
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :21
+#
+##Valeur: 91
+##Qualité:-0.083557
+#
+#Individu :22
+#
+##Valeur: 77
+##Qualité:-0.158752
+#
+#Individu :23
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :24
+#
+##Valeur: 63
+##Qualité:-0.257874
+#
+#Individu :25
+#
+##Valeur: 61
+##Qualité:-0.273987
+#
+#Individu :26
+#
+##Valeur: 57
+##Qualité:-0.307678
+#
+#Individu :27
+#
+##Valeur: 57
+##Qualité:-0.307678
+#
+#Individu :28
+#
+##Valeur: 56
+##Qualité:-0.316406
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 8
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :9
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :10
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :11
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :12
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :13
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :14
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :15
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :16
+#
+##Valeur: 120
+##Qualité:-0.003906
+#
+#Individu :17
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :18
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :19
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :20
+#
+##Valeur: 105
+##Qualité:-0.032288
+#
+#Individu :21
+#
+##Valeur: 95
+##Qualité:-0.066467
+#
+#Individu :22
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :23
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :24
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :25
+#
+##Valeur: 185
+##Qualité:-0.198303
+#
+#Individu :26
+#
+##Valeur: 63
+##Qualité:-0.257874
+#
+#Individu :27
+#
+##Valeur: 61
+##Qualité:-0.273987
+#
+#Individu :28
+#
+##Valeur: 61
+##Qualité:-0.273987
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 9
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :12
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :13
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :14
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :15
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :16
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :17
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :18
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :19
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :20
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :21
+#
+##Valeur: 105
+##Qualité:-0.032288
+#
+#Individu :22
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :23
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :24
+#
+##Valeur: 79
+##Qualité:-0.146545
+#
+#Individu :25
+#
+##Valeur: 77
+##Qualité:-0.158752
+#
+#Individu :26
+#
+##Valeur: 63
+##Qualité:-0.257874
+#
+#Individu :27
+#
+##Valeur: 63
+##Qualité:-0.257874
+#
+#Individu :28
+#
+##Valeur: 62
+##Qualité:-0.265869
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 10
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :8
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :9
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :10
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :11
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :12
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :13
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :14
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :15
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :16
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :17
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :18
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :19
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :20
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :21
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :22
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :23
+#
+##Valeur: 107
+##Qualité:-0.026917
+#
+#Individu :24
+#
+##Valeur: 105
+##Qualité:-0.032288
+#
+#Individu :25
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :26
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :27
+#
+##Valeur: 93
+##Qualité:-0.074768
+#
+#Individu :28
+#
+##Valeur: 79
+##Qualité:-0.146545
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 11
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :12
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :13
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :14
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :15
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :16
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :17
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :18
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :19
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :20
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :21
+#
+##Valeur: 123
+##Qualité:-0.001526
+#
+#Individu :22
+#
+##Valeur: 121
+##Qualité:-0.002991
+#
+#Individu :23
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :24
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :25
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :26
+#
+##Valeur: 111
+##Qualité:-0.017639
+#
+#Individu :27
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :28
+#
+##Valeur: 109
+##Qualité:-0.022034
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 12
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :22
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :23
+#
+##Valeur: 126
+##Qualité:-0.000244
+#
+#Individu :24
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :25
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :26
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :27
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :28
+#
+##Valeur: 125
+##Qualité:-0.000549
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 13
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 14
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 15
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 16
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 17
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 18
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+génération 19
+#Individu :1
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :2
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :3
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :4
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :5
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :6
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :7
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :8
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :9
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :10
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :11
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :12
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :13
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :14
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :15
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :16
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :17
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :18
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :19
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :20
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :21
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :22
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :23
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :24
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :25
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :26
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :27
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :28
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :29
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :30
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :31
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+#Individu :32
+#
+##Valeur: 127
+##Qualité:-0.000061
+#
+Meilleur individu de la population avec 32 individu, 20 génération, 28 meilleurs individus séléctionné et un breed à 50 de croisement à :
+ -une valeur de :127
+ -une qualité de -0.000061
+ 
+Malgrés un taux de Séléction proche de 90% le phénomène d'homogénisation de la pop reste mais il est bien moins prononcé ce qui permet a la pop de globalement mieux progresser et d'atteindre plus souvent la valeur optimal de 128 avec ce calcule de qualité 
+
