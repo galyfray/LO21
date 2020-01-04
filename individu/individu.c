@@ -30,7 +30,8 @@ long int individu_toint(Individu liste){
 }
 
 float quality(int Value,float p1,float p2,int length){
-    int i,P=1;
+    int i;
+    long int P=1;
     for(i=1;i<=length;i++){ //calcule de P^n parmet de ne pas se retrouver avec les erreurs de pow du au passage de float a int 
         P=2*P;
     }

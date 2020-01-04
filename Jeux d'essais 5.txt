@@ -1,0 +1,3225 @@
+génération 0
+#Individu :1
+#
+##Valeur: 1345439757
+##Qualité:-0.387088
+#
+#Individu :2
+#
+##Valeur: 618917181
+##Qualité:0.617351
+#
+#Individu :3
+#
+##Valeur: 4108139271
+##Qualité:0.962882
+#
+#Individu :4
+#
+##Valeur: 2001117624
+##Qualité:-0.977163
+#
+#Individu :5
+#
+##Valeur: 3820624109
+##Qualité:0.768742
+#
+#Individu :6
+#
+##Valeur: 4168787281
+##Qualité:0.983011
+#
+#Individu :7
+#
+##Valeur: 1959126592
+##Qualité:-0.962275
+#
+#Individu :8
+#
+##Valeur: 1704027721
+##Qualité:-0.796846
+#
+#Individu :9
+#
+##Valeur: 2858698091
+##Qualité:-0.505833
+#
+#Individu :10
+#
+##Valeur: 2034860688
+##Qualité:-0.986458
+#
+#Individu :11
+#
+##Valeur: 3421315198
+##Qualité:0.288552
+#
+#Individu :12
+#
+##Valeur: 1604747716
+##Qualité:-0.701014
+#
+#Individu :13
+#
+##Valeur: 2750860275
+##Qualité:-0.635075
+#
+#Individu :14
+#
+##Valeur: 242477803
+##Qualité:0.937742
+#
+#Individu :15
+#
+##Valeur: 1594185527
+##Qualité:-0.689911
+#
+#Individu :16
+#
+##Valeur: 1400746141
+##Qualité:-0.460342
+#
+#Individu :17
+#
+##Valeur: 1808129163
+##Qualité:-0.879280
+#
+#Individu :18
+#
+##Valeur: 2752092753
+##Qualité:-0.633682
+#
+#Individu :19
+#
+##Valeur: 459755667
+##Qualité:0.782214
+#
+#Individu :20
+#
+##Valeur: 1562977451
+##Qualité:-0.656155
+#
+#Individu :21
+#
+##Valeur: 3841245383
+##Qualité:0.787682
+#
+#Individu :22
+#
+##Valeur: 30823410
+##Qualité:0.998984
+#
+#Individu :23
+#
+##Valeur: 3628380410
+##Qualité:0.561034
+#
+#Individu :24
+#
+##Valeur: 3805792723
+##Qualité:0.754685
+#
+#Individu :25
+#
+##Valeur: 3727202342
+##Qualité:0.674438
+#
+#Individu :26
+#
+##Valeur: 1990520749
+##Qualité:-0.973752
+#
+#Individu :27
+#
+##Valeur: 1470751205
+##Qualité:-0.548686
+#
+#Individu :28
+#
+##Valeur: 2536833482
+##Qualité:-0.842124
+#
+#Individu :29
+#
+##Valeur: 1624987781
+##Qualité:-0.721819
+#
+#Individu :30
+#
+##Valeur: 937617777
+##Qualité:0.197825
+#
+#Individu :31
+#
+##Valeur: 1289669579
+##Qualité:-0.310658
+#
+#Individu :32
+#
+##Valeur: 2001979184
+##Qualité:-0.977430
+#
+génération 1
+#Individu :1
+#
+##Valeur: 4039493827
+##Qualité:0.930969
+#
+#Individu :2
+#
+##Valeur: 268552221
+##Qualité:0.923814
+#
+#Individu :3
+#
+##Valeur: 3851012697
+##Qualité:0.796405
+#
+#Individu :4
+#
+##Valeur: 3805399259
+##Qualité:0.754307
+#
+#Individu :5
+#
+##Valeur: 3797402419
+##Qualité:0.746575
+#
+#Individu :6
+#
+##Valeur: 3718578629
+##Qualité:0.665069
+#
+#Individu :7
+#
+##Valeur: 3693393974
+##Qualité:0.637111
+#
+#Individu :8
+#
+##Valeur: 650685041
+##Qualité:0.580138
+#
+#Individu :9
+#
+##Valeur: 3471665359
+##Qualité:0.358232
+#
+#Individu :10
+#
+##Valeur: 862367923
+##Qualité:0.304318
+#
+#Individu :11
+#
+##Valeur: 3419224103
+##Qualité:0.285622
+#
+#Individu :12
+#
+##Valeur: 1021438658
+##Qualité:0.076441
+#
+#Individu :13
+#
+##Valeur: 1064553130
+##Qualité:0.013442
+#
+#Individu :14
+#
+##Valeur: 1096140939
+##Qualité:-0.032762
+#
+#Individu :15
+#
+##Valeur: 1204669609
+##Qualité:-0.190368
+#
+#Individu :16
+#
+##Valeur: 1291767071
+##Qualité:-0.313573
+#
+#Individu :17
+#
+##Valeur: 1348352213
+##Qualité:-0.391014
+#
+#Individu :18
+#
+##Valeur: 1459937085
+##Qualité:-0.535392
+#
+#Individu :19
+#
+##Valeur: 1470431682
+##Qualité:-0.548296
+#
+#Individu :20
+#
+##Valeur: 1550440484
+##Qualité:-0.642205
+#
+#Individu :21
+#
+##Valeur: 1723649967
+##Qualité:-0.813859
+#
+#Individu :22
+#
+##Valeur: 1739328685
+##Qualité:-0.826971
+#
+#Individu :23
+#
+##Valeur: 2543174107
+##Qualité:-0.837085
+#
+#Individu :24
+#
+##Valeur: 1759497483
+##Qualité:-0.843198
+#
+#Individu :25
+#
+##Valeur: 1791088781
+##Qualité:-0.867134
+#
+#Individu :26
+#
+##Valeur: 1838247531
+##Qualité:-0.899406
+#
+#Individu :27
+#
+##Valeur: 1934738472
+##Qualité:-0.951958
+#
+#Individu :28
+#
+##Valeur: 1964581799
+##Qualité:-0.964416
+#
+#Individu :29
+#
+##Valeur: 4039493827
+##Qualité:0.930969
+#
+#Individu :30
+#
+##Valeur: 268552221
+##Qualité:0.923814
+#
+#Individu :31
+#
+##Valeur: 3851012697
+##Qualité:0.796405
+#
+#Individu :32
+#
+##Valeur: 3805399259
+##Qualité:0.754307
+#
+génération 2
+#Individu :1
+#
+##Valeur: 3976845317
+##Qualité:0.893648
+#
+#Individu :2
+#
+##Valeur: 341952525
+##Qualité:0.877463
+#
+#Individu :3
+#
+##Valeur: 3940404315
+##Qualité:0.868466
+#
+#Individu :4
+#
+##Valeur: 3884550697
+##Qualité:0.825106
+#
+#Individu :5
+#
+##Valeur: 3873032795
+##Qualité:0.815470
+#
+#Individu :6
+#
+##Valeur: 3846817819
+##Qualité:0.792679
+#
+#Individu :7
+#
+##Valeur: 3827034705
+##Qualité:0.774705
+#
+#Individu :8
+#
+##Valeur: 3821918387
+##Qualité:0.769951
+#
+#Individu :9
+#
+##Valeur: 3801729625
+##Qualité:0.750772
+#
+#Individu :10
+#
+##Valeur: 3780722895
+##Qualité:0.730121
+#
+#Individu :11
+#
+##Valeur: 3549280487
+##Qualité:0.461706
+#
+#Individu :12
+#
+##Valeur: 765568179
+##Qualité:0.435715
+#
+#Individu :13
+#
+##Valeur: 3504685249
+##Qualité:0.402896
+#
+#Individu :14
+#
+##Valeur: 862256297
+##Qualité:0.304474
+#
+#Individu :15
+#
+##Valeur: 3386218663
+##Qualité:0.239034
+#
+#Individu :16
+#
+##Valeur: 1064551594
+##Qualité:0.013444
+#
+#Individu :17
+#
+##Valeur: 1088346271
+##Qualité:-0.021363
+#
+#Individu :18
+#
+##Valeur: 3012272345
+##Qualité:-0.300943
+#
+#Individu :19
+#
+##Valeur: 1425001501
+##Qualité:-0.491546
+#
+#Individu :20
+#
+##Valeur: 1543620620
+##Qualité:-0.634525
+#
+#Individu :21
+#
+##Valeur: 1546488876
+##Qualité:-0.637763
+#
+#Individu :22
+#
+##Valeur: 1550139845
+##Qualité:-0.641868
+#
+#Individu :23
+#
+##Valeur: 1550698799
+##Qualité:-0.642494
+#
+#Individu :24
+#
+##Valeur: 1558313632
+##Qualité:-0.650991
+#
+#Individu :25
+#
+##Valeur: 1753312269
+##Qualité:-0.838299
+#
+#Individu :26
+#
+##Valeur: 1758710795
+##Qualité:-0.842579
+#
+#Individu :27
+#
+##Valeur: 1822726327
+##Qualité:-0.889250
+#
+#Individu :28
+#
+##Valeur: 1839557686
+##Qualité:-0.900242
+#
+#Individu :29
+#
+##Valeur: 3976845317
+##Qualité:0.893648
+#
+#Individu :30
+#
+##Valeur: 341952525
+##Qualité:0.877463
+#
+#Individu :31
+#
+##Valeur: 3940404315
+##Qualité:0.868466
+#
+#Individu :32
+#
+##Valeur: 3884550697
+##Qualité:0.825106
+#
+génération 3
+#Individu :1
+#
+##Valeur: 4222583004
+##Qualité:0.994399
+#
+#Individu :2
+#
+##Valeur: 206687245
+##Qualité:0.954634
+#
+#Individu :3
+#
+##Valeur: 4048156713
+##Qualité:0.935522
+#
+#Individu :4
+#
+##Valeur: 4014588928
+##Qualité:0.917053
+#
+#Individu :5
+#
+##Valeur: 3976841769
+##Qualité:0.893646
+#
+#Individu :6
+#
+##Valeur: 3922577425
+##Qualité:0.855244
+#
+#Individu :7
+#
+##Valeur: 3885615675
+##Qualité:0.825986
+#
+#Individu :8
+#
+##Valeur: 3884562597
+##Qualité:0.825116
+#
+#Individu :9
+#
+##Valeur: 3848063131
+##Qualité:0.793788
+#
+#Individu :10
+#
+##Valeur: 3844164659
+##Qualité:0.790306
+#
+#Individu :11
+#
+##Valeur: 3834616561
+##Qualité:0.781671
+#
+#Individu :12
+#
+##Valeur: 3801729625
+##Qualité:0.750772
+#
+#Individu :13
+#
+##Valeur: 3788327083
+##Qualité:0.737677
+#
+#Individu :14
+#
+##Valeur: 812238927
+##Qualité:0.373294
+#
+#Individu :15
+#
+##Valeur: 3386477221
+##Qualité:0.239402
+#
+#Individu :16
+#
+##Valeur: 943835149
+##Qualité:0.188901
+#
+#Individu :17
+#
+##Valeur: 960559145
+##Qualité:0.164821
+#
+#Individu :18
+#
+##Valeur: 987745339
+##Qualité:0.125474
+#
+#Individu :19
+#
+##Valeur: 3304179743
+##Qualité:0.121057
+#
+#Individu :20
+#
+##Valeur: 1011472389
+##Qualité:0.090969
+#
+#Individu :21
+#
+##Valeur: 1549912367
+##Qualité:-0.641612
+#
+#Individu :22
+#
+##Valeur: 1567476905
+##Qualité:-0.661108
+#
+#Individu :23
+#
+##Valeur: 1640227977
+##Qualité:-0.737069
+#
+#Individu :24
+#
+##Valeur: 1788726300
+##Qualité:-0.865408
+#
+#Individu :25
+#
+##Valeur: 1814121516
+##Qualité:-0.883422
+#
+#Individu :26
+#
+##Valeur: 1822460055
+##Qualité:-0.889072
+#
+#Individu :27
+#
+##Valeur: 1825807507
+##Qualité:-0.891303
+#
+#Individu :28
+#
+##Valeur: 1829367941
+##Qualité:-0.893652
+#
+#Individu :29
+#
+##Valeur: 4222583004
+##Qualité:0.994399
+#
+#Individu :30
+#
+##Valeur: 206687245
+##Qualité:0.954634
+#
+#Individu :31
+#
+##Valeur: 4048156713
+##Qualité:0.935522
+#
+#Individu :32
+#
+##Valeur: 4014588928
+##Qualité:0.917053
+#
+génération 4
+#Individu :1
+#
+##Valeur: 4242524347
+##Qualité:0.997058
+#
+#Individu :2
+#
+##Valeur: 4086153358
+##Qualité:0.953703
+#
+#Individu :3
+#
+##Valeur: 4077641964
+##Qualité:0.949885
+#
+#Individu :4
+#
+##Valeur: 4043960365
+##Qualité:0.933335
+#
+#Individu :5
+#
+##Valeur: 4016686115
+##Qualité:0.918272
+#
+#Individu :6
+#
+##Valeur: 3977889833
+##Qualité:0.894333
+#
+#Individu :7
+#
+##Valeur: 3976851588
+##Qualité:0.893652
+#
+#Individu :8
+#
+##Valeur: 3922576400
+##Qualité:0.855243
+#
+#Individu :9
+#
+##Valeur: 3858286751
+##Qualité:0.802795
+#
+#Individu :10
+#
+##Valeur: 3852568731
+##Qualité:0.797779
+#
+#Individu :11
+#
+##Valeur: 3800943628
+##Qualité:0.750012
+#
+#Individu :12
+#
+##Valeur: 3788240005
+##Qualité:0.737591
+#
+#Individu :13
+#
+##Valeur: 3767339195
+##Qualité:0.716603
+#
+#Individu :14
+#
+##Valeur: 714198045
+##Qualité:0.502063
+#
+#Individu :15
+#
+##Valeur: 752852155
+##Qualité:0.452383
+#
+#Individu :16
+#
+##Valeur: 759232513
+##Qualité:0.444039
+#
+#Individu :17
+#
+##Valeur: 3294754825
+##Qualité:0.107360
+#
+#Individu :18
+#
+##Valeur: 1012652161
+##Qualité:0.089250
+#
+#Individu :19
+#
+##Valeur: 3162097693
+##Qualité:-0.086391
+#
+#Individu :20
+#
+##Valeur: 3119483102
+##Qualité:-0.148292
+#
+#Individu :21
+#
+##Valeur: 3108751417
+##Qualité:-0.163799
+#
+#Individu :22
+#
+##Valeur: 1284082357
+##Qualité:-0.302878
+#
+#Individu :23
+#
+##Valeur: 1296157737
+##Qualité:-0.319665
+#
+#Individu :24
+#
+##Valeur: 1640204419
+##Qualité:-0.737046
+#
+#Individu :25
+#
+##Valeur: 1688767059
+##Qualité:-0.783160
+#
+#Individu :26
+#
+##Valeur: 1762261149
+##Qualité:-0.845365
+#
+#Individu :27
+#
+##Valeur: 1820953105
+##Qualité:-0.888060
+#
+#Individu :28
+#
+##Valeur: 1822291092
+##Qualité:-0.888959
+#
+#Individu :29
+#
+##Valeur: 4242524347
+##Qualité:0.997058
+#
+#Individu :30
+#
+##Valeur: 4086153358
+##Qualité:0.953703
+#
+#Individu :31
+#
+##Valeur: 4077641964
+##Qualité:0.949885
+#
+#Individu :32
+#
+##Valeur: 4043960365
+##Qualité:0.933335
+#
+génération 5
+#Individu :1
+#
+##Valeur: 4271763598
+##Qualité:0.999424
+#
+#Individu :2
+#
+##Valeur: 4237281341
+##Qualité:0.996441
+#
+#Individu :3
+#
+##Valeur: 4229532181
+##Qualité:0.995422
+#
+#Individu :4
+#
+##Valeur: 4183797807
+##Qualité:0.986805
+#
+#Individu :5
+#
+##Valeur: 4104765455
+##Qualité:0.961538
+#
+#Individu :6
+#
+##Valeur: 4077510892
+##Qualité:0.949825
+#
+#Individu :7
+#
+##Valeur: 4052467950
+##Qualité:0.937731
+#
+#Individu :8
+#
+##Valeur: 4052332573
+##Qualité:0.937662
+#
+#Individu :9
+#
+##Valeur: 3992766619
+##Qualité:0.903857
+#
+#Individu :10
+#
+##Valeur: 3981047845
+##Qualité:0.896390
+#
+#Individu :11
+#
+##Valeur: 3973810355
+##Qualité:0.891647
+#
+#Individu :12
+#
+##Valeur: 3876315172
+##Qualité:0.818240
+#
+#Individu :13
+#
+##Valeur: 3831617537
+##Qualité:0.778927
+#
+#Individu :14
+#
+##Valeur: 3783360646
+##Qualité:0.732752
+#
+#Individu :15
+#
+##Valeur: 3767386271
+##Qualité:0.716651
+#
+#Individu :16
+#
+##Valeur: 738982037
+##Qualité:0.470384
+#
+#Individu :17
+#
+##Valeur: 3298928769
+##Qualité:0.113429
+#
+#Individu :18
+#
+##Valeur: 1064031235
+##Qualité:0.014205
+#
+#Individu :19
+#
+##Valeur: 3168782393
+##Qualité:-0.076645
+#
+#Individu :20
+#
+##Valeur: 1209125949
+##Qualité:-0.196763
+#
+#Individu :21
+#
+##Valeur: 1216974000
+##Qualité:-0.208007
+#
+#Individu :22
+#
+##Valeur: 1284229301
+##Qualité:-0.303083
+#
+#Individu :23
+#
+##Valeur: 1297341601
+##Qualité:-0.321306
+#
+#Individu :24
+#
+##Valeur: 2907240453
+##Qualité:-0.443352
+#
+#Individu :25
+#
+##Valeur: 2906900521
+##Qualité:-0.443798
+#
+#Individu :26
+#
+##Valeur: 2850784455
+##Qualité:-0.515786
+#
+#Individu :27
+#
+##Valeur: 2828661909
+##Qualité:-0.543237
+#
+#Individu :28
+#
+##Valeur: 1687128187
+##Qualité:-0.781667
+#
+#Individu :29
+#
+##Valeur: 4271763598
+##Qualité:0.999424
+#
+#Individu :30
+#
+##Valeur: 4237281341
+##Qualité:0.996441
+#
+#Individu :31
+#
+##Valeur: 4229532181
+##Qualité:0.995422
+#
+#Individu :32
+#
+##Valeur: 4183797807
+##Qualité:0.986805
+#
+génération 6
+#Individu :1
+#
+##Valeur: 4259311662
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4233021477
+##Qualité:0.995897
+#
+#Individu :3
+#
+##Valeur: 4170041501
+##Qualité:0.983347
+#
+#Individu :4
+#
+##Valeur: 4104778895
+##Qualité:0.961543
+#
+#Individu :5
+#
+##Valeur: 4104124538
+##Qualité:0.961280
+#
+#Individu :6
+#
+##Valeur: 4085903516
+##Qualité:0.953593
+#
+#Individu :7
+#
+##Valeur: 4044990637
+##Qualité:0.933875
+#
+#Individu :8
+#
+##Valeur: 4035825822
+##Qualité:0.928997
+#
+#Individu :9
+#
+##Valeur: 4011428404
+##Qualité:0.915199
+#
+#Individu :10
+#
+##Valeur: 3980445755
+##Qualité:0.895999
+#
+#Individu :11
+#
+##Valeur: 3969486359
+##Qualité:0.888765
+#
+#Individu :12
+#
+##Valeur: 3967936541
+##Qualité:0.887724
+#
+#Individu :13
+#
+##Valeur: 3783376950
+##Qualité:0.732768
+#
+#Individu :14
+#
+##Valeur: 614321333
+##Qualité:0.622626
+#
+#Individu :15
+#
+##Valeur: 3624913061
+##Qualité:0.556828
+#
+#Individu :16
+#
+##Valeur: 681176085
+##Qualité:0.543240
+#
+#Individu :17
+#
+##Valeur: 751814717
+##Qualité:0.453736
+#
+#Individu :18
+#
+##Valeur: 3431581825
+##Qualité:0.302900
+#
+#Individu :19
+#
+##Valeur: 3364472032
+##Qualité:0.208028
+#
+#Individu :20
+#
+##Valeur: 1013696547
+##Qualité:0.087728
+#
+#Individu :21
+#
+##Valeur: 1037027337
+##Qualité:0.053685
+#
+#Individu :22
+#
+##Valeur: 3207189507
+##Qualité:-0.020532
+#
+#Individu :23
+#
+##Valeur: 3198017598
+##Qualité:-0.033945
+#
+#Individu :24
+#
+##Valeur: 3175856135
+##Qualité:-0.066323
+#
+#Individu :25
+#
+##Valeur: 1163105408
+##Qualité:-0.130359
+#
+#Individu :26
+#
+##Valeur: 3110060077
+##Qualité:-0.161910
+#
+#Individu :27
+#
+##Valeur: 3008091163
+##Qualité:-0.306771
+#
+#Individu :28
+#
+##Valeur: 2907682857
+##Qualité:-0.442771
+#
+#Individu :29
+#
+##Valeur: 4259311662
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4233021477
+##Qualité:0.995897
+#
+#Individu :31
+#
+##Valeur: 4170041501
+##Qualité:0.983347
+#
+#Individu :32
+#
+##Valeur: 4104778895
+##Qualité:0.961543
+#
+génération 7
+#Individu :1
+#
+##Valeur: 4258263215
+##Qualité:0.998559
+#
+#Individu :2
+#
+##Valeur: 4255117374
+##Qualité:0.998301
+#
+#Individu :3
+#
+##Valeur: 4250847269
+##Qualité:0.997918
+#
+#Individu :4
+#
+##Valeur: 4242534442
+##Qualité:0.997060
+#
+#Individu :5
+#
+##Valeur: 4234143870
+##Qualité:0.996044
+#
+#Individu :6
+#
+##Valeur: 4229939389
+##Qualité:0.995479
+#
+#Individu :7
+#
+##Valeur: 4194033709
+##Qualité:0.989118
+#
+#Individu :8
+#
+##Valeur: 4161797287
+##Qualité:0.981083
+#
+#Individu :9
+#
+##Valeur: 4153013406
+##Qualité:0.978515
+#
+#Individu :10
+#
+##Valeur: 4122601615
+##Qualité:0.968377
+#
+#Individu :11
+#
+##Valeur: 4102814895
+##Qualité:0.960750
+#
+#Individu :12
+#
+##Valeur: 4065316869
+##Qualité:0.944094
+#
+#Individu :13
+#
+##Valeur: 4053258302
+##Qualité:0.938132
+#
+#Individu :14
+#
+##Valeur: 4049127597
+##Qualité:0.936022
+#
+#Individu :15
+#
+##Valeur: 4043424787
+##Qualité:0.933054
+#
+#Individu :16
+#
+##Valeur: 3969510935
+##Qualité:0.888782
+#
+#Individu :17
+#
+##Valeur: 3968986653
+##Qualité:0.888430
+#
+#Individu :18
+#
+##Valeur: 3818504732
+##Qualité:0.766755
+#
+#Individu :19
+#
+##Valeur: 810540057
+##Qualité:0.375599
+#
+#Individu :20
+#
+##Valeur: 3431975041
+##Qualité:0.303448
+#
+#Individu :21
+#
+##Valeur: 3214798894
+##Qualité:-0.009402
+#
+#Individu :22
+#
+##Valeur: 3171663919
+##Qualité:-0.072441
+#
+#Individu :23
+#
+##Valeur: 3163523231
+##Qualité:-0.084313
+#
+#Individu :24
+#
+##Valeur: 3141112871
+##Qualité:-0.116930
+#
+#Individu :25
+#
+##Valeur: 3117271053
+##Qualité:-0.151491
+#
+#Individu :26
+#
+##Valeur: 3055408181
+##Qualité:-0.240206
+#
+#Individu :27
+#
+##Valeur: 3033387199
+##Qualité:-0.271347
+#
+#Individu :28
+#
+##Valeur: 3023693867
+##Qualité:-0.284968
+#
+#Individu :29
+#
+##Valeur: 4258263215
+##Qualité:0.998559
+#
+#Individu :30
+#
+##Valeur: 4255117374
+##Qualité:0.998301
+#
+#Individu :31
+#
+##Valeur: 4250847269
+##Qualité:0.997918
+#
+#Individu :32
+#
+##Valeur: 4242534442
+##Qualité:0.997060
+#
+génération 8
+#Individu :1
+#
+##Valeur: 4259305518
+##Qualité:0.998639
+#
+#Individu :2
+#
+##Valeur: 4258263215
+##Qualité:0.998559
+#
+#Individu :3
+#
+##Valeur: 4255117358
+##Qualité:0.998301
+#
+#Individu :4
+#
+##Valeur: 4255115326
+##Qualité:0.998301
+#
+#Individu :5
+#
+##Valeur: 4254054559
+##Qualité:0.998209
+#
+#Individu :6
+#
+##Valeur: 4250925088
+##Qualité:0.997925
+#
+#Individu :7
+#
+##Valeur: 4249864349
+##Qualité:0.997824
+#
+#Individu :8
+#
+##Valeur: 4242532607
+##Qualité:0.997059
+#
+#Individu :9
+#
+##Valeur: 4242275501
+##Qualité:0.997030
+#
+#Individu :10
+#
+##Valeur: 4242141719
+##Qualité:0.997015
+#
+#Individu :11
+#
+##Valeur: 4241475775
+##Qualité:0.996940
+#
+#Individu :12
+#
+##Valeur: 4220373021
+##Qualité:0.994052
+#
+#Individu :13
+#
+##Valeur: 4191940655
+##Qualité:0.988663
+#
+#Individu :14
+#
+##Valeur: 4182702117
+##Qualité:0.986544
+#
+#Individu :15
+#
+##Valeur: 4161526819
+##Qualité:0.981006
+#
+#Individu :16
+#
+##Valeur: 4122734783
+##Qualité:0.968425
+#
+#Individu :17
+#
+##Valeur: 4122603663
+##Qualité:0.968377
+#
+#Individu :18
+#
+##Valeur: 4114139183
+##Qualité:0.965214
+#
+#Individu :19
+#
+##Valeur: 4098871341
+##Qualité:0.959134
+#
+#Individu :20
+#
+##Valeur: 4049258669
+##Qualité:0.936090
+#
+#Individu :21
+#
+##Valeur: 4048547869
+##Qualité:0.935724
+#
+#Individu :22
+#
+##Valeur: 3977895991
+##Qualité:0.894337
+#
+#Individu :23
+#
+##Valeur: 886036639
+##Qualité:0.271159
+#
+#Individu :24
+#
+##Valeur: 3301820589
+##Qualité:0.117631
+#
+#Individu :25
+#
+##Valeur: 3189366826
+##Qualité:-0.046590
+#
+#Individu :26
+#
+##Valeur: 3185559725
+##Qualité:-0.052153
+#
+#Individu :27
+#
+##Valeur: 3180300447
+##Qualité:-0.059834
+#
+#Individu :28
+#
+##Valeur: 3140719678
+##Qualité:-0.117501
+#
+#Individu :29
+#
+##Valeur: 4259305518
+##Qualité:0.998639
+#
+#Individu :30
+#
+##Valeur: 4258263215
+##Qualité:0.998559
+#
+#Individu :31
+#
+##Valeur: 4255117358
+##Qualité:0.998301
+#
+#Individu :32
+#
+##Valeur: 4255115326
+##Qualité:0.998301
+#
+génération 9
+#Individu :1
+#
+##Valeur: 4259311791
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259049647
+##Qualité:0.998620
+#
+#Individu :3
+#
+##Valeur: 4259043382
+##Qualité:0.998619
+#
+#Individu :4
+#
+##Valeur: 4254984255
+##Qualité:0.998290
+#
+#Individu :5
+#
+##Valeur: 4254050494
+##Qualité:0.998209
+#
+#Individu :6
+#
+##Valeur: 4250663981
+##Qualité:0.997900
+#
+#Individu :7
+#
+##Valeur: 4246724767
+##Qualité:0.997511
+#
+#Individu :8
+#
+##Valeur: 4242530543
+##Qualité:0.997059
+#
+#Individu :9
+#
+##Valeur: 4242275502
+##Qualité:0.997030
+#
+#Individu :10
+#
+##Valeur: 4242263229
+##Qualité:0.997029
+#
+#Individu :11
+#
+##Valeur: 4241475775
+##Qualité:0.996940
+#
+#Individu :12
+#
+##Valeur: 4220504093
+##Qualité:0.994073
+#
+#Individu :13
+#
+##Valeur: 4187744303
+##Qualité:0.987723
+#
+#Individu :14
+#
+##Valeur: 4183676989
+##Qualité:0.986776
+#
+#Individu :15
+#
+##Valeur: 4182702085
+##Qualité:0.986544
+#
+#Individu :16
+#
+##Valeur: 4179357757
+##Qualité:0.985732
+#
+#Individu :17
+#
+##Valeur: 4126797967
+##Qualité:0.969890
+#
+#Individu :18
+#
+##Valeur: 4125095998
+##Qualité:0.969281
+#
+#Individu :19
+#
+##Valeur: 4124045455
+##Qualité:0.968901
+#
+#Individu :20
+#
+##Valeur: 4120637631
+##Qualité:0.967656
+#
+#Individu :21
+#
+##Valeur: 4120635583
+##Qualité:0.967655
+#
+#Individu :22
+#
+##Valeur: 4098867240
+##Qualité:0.959132
+#
+#Individu :23
+#
+##Valeur: 4053528751
+##Qualité:0.938269
+#
+#Individu :24
+#
+##Valeur: 3981174839
+##Qualité:0.896473
+#
+#Individu :25
+#
+##Valeur: 3587168302
+##Qualité:0.510137
+#
+#Individu :26
+#
+##Valeur: 3562002477
+##Qualité:0.478134
+#
+#Individu :27
+#
+##Valeur: 3436169391
+##Qualité:0.309289
+#
+#Individu :28
+#
+##Valeur: 3301955758
+##Qualité:0.117827
+#
+#Individu :29
+#
+##Valeur: 4259311791
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259049647
+##Qualité:0.998620
+#
+#Individu :31
+#
+##Valeur: 4259043382
+##Qualité:0.998619
+#
+#Individu :32
+#
+##Valeur: 4254984255
+##Qualité:0.998290
+#
+génération 10
+#Individu :1
+#
+##Valeur: 4259301549
+##Qualité:0.998639
+#
+#Individu :2
+#
+##Valeur: 4259051582
+##Qualité:0.998620
+#
+#Individu :3
+#
+##Valeur: 4259050671
+##Qualité:0.998620
+#
+#Individu :4
+#
+##Valeur: 4259043374
+##Qualité:0.998619
+#
+#Individu :5
+#
+##Valeur: 4254855343
+##Qualité:0.998279
+#
+#Individu :6
+#
+##Valeur: 4250654776
+##Qualité:0.997900
+#
+#Individu :7
+#
+##Valeur: 4249810964
+##Qualité:0.997819
+#
+#Individu :8
+#
+##Valeur: 4246726719
+##Qualité:0.997511
+#
+#Individu :9
+#
+##Valeur: 4242524350
+##Qualité:0.997058
+#
+#Individu :10
+#
+##Valeur: 4242260157
+##Qualité:0.997029
+#
+#Individu :11
+#
+##Valeur: 4241226797
+##Qualité:0.996911
+#
+#Individu :12
+#
+##Valeur: 4229687453
+##Qualité:0.995443
+#
+#Individu :13
+#
+##Valeur: 4220504221
+##Qualité:0.994073
+#
+#Individu :14
+#
+##Valeur: 4192200751
+##Qualité:0.988720
+#
+#Individu :15
+#
+##Valeur: 4192065599
+##Qualité:0.988691
+#
+#Individu :16
+#
+##Valeur: 4183679149
+##Qualité:0.986776
+#
+#Individu :17
+#
+##Valeur: 4178434077
+##Qualité:0.985504
+#
+#Individu :18
+#
+##Valeur: 4125093949
+##Qualité:0.969280
+#
+#Individu :19
+#
+##Valeur: 4124833854
+##Qualité:0.969186
+#
+#Individu :20
+#
+##Valeur: 4124831887
+##Qualité:0.969185
+#
+#Individu :21
+#
+##Valeur: 4124821559
+##Qualité:0.969182
+#
+#Individu :22
+#
+##Valeur: 4124702911
+##Qualité:0.969139
+#
+#Individu :23
+#
+##Valeur: 4124031134
+##Qualité:0.968896
+#
+#Individu :24
+#
+##Valeur: 4120637615
+##Qualité:0.967656
+#
+#Individu :25
+#
+##Valeur: 4120635582
+##Qualité:0.967655
+#
+#Individu :26
+#
+##Valeur: 4116437037
+##Qualité:0.966087
+#
+#Individu :27
+#
+##Valeur: 4107004079
+##Qualité:0.962432
+#
+#Individu :28
+#
+##Valeur: 3985631294
+##Qualité:0.899342
+#
+#Individu :29
+#
+##Valeur: 4259301549
+##Qualité:0.998639
+#
+#Individu :30
+#
+##Valeur: 4259051582
+##Qualité:0.998620
+#
+#Individu :31
+#
+##Valeur: 4259050671
+##Qualité:0.998620
+#
+#Individu :32
+#
+##Valeur: 4259043374
+##Qualité:0.998619
+#
+génération 11
+#Individu :1
+#
+##Valeur: 4291812365
+##Qualité:0.999989
+#
+#Individu :2
+#
+##Valeur: 4259309615
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259309709
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259305518
+##Qualité:0.998639
+#
+#Individu :5
+#
+##Valeur: 4259052703
+##Qualité:0.998620
+#
+#Individu :6
+#
+##Valeur: 4259051566
+##Qualité:0.998620
+#
+#Individu :7
+#
+##Valeur: 4259049647
+##Qualité:0.998620
+#
+#Individu :8
+#
+##Valeur: 4259045439
+##Qualité:0.998619
+#
+#Individu :9
+#
+##Valeur: 4259043374
+##Qualité:0.998619
+#
+#Individu :10
+#
+##Valeur: 4258265124
+##Qualité:0.998559
+#
+#Individu :11
+#
+##Valeur: 4258199580
+##Qualité:0.998554
+#
+#Individu :12
+#
+##Valeur: 4254857406
+##Qualité:0.998279
+#
+#Individu :13
+#
+##Valeur: 4250920988
+##Qualité:0.997925
+#
+#Individu :14
+#
+##Valeur: 4250654760
+##Qualité:0.997900
+#
+#Individu :15
+#
+##Valeur: 4241226797
+##Qualité:0.996911
+#
+#Individu :16
+#
+##Valeur: 4241225791
+##Qualité:0.996911
+#
+#Individu :17
+#
+##Valeur: 4229949596
+##Qualité:0.995480
+#
+#Individu :18
+#
+##Valeur: 4192192575
+##Qualité:0.988719
+#
+#Individu :19
+#
+##Valeur: 4179613885
+##Qualité:0.985795
+#
+#Individu :20
+#
+##Valeur: 4125094063
+##Qualité:0.969280
+#
+#Individu :21
+#
+##Valeur: 4125087807
+##Qualité:0.969278
+#
+#Individu :22
+#
+##Valeur: 4124833935
+##Qualité:0.969186
+#
+#Individu :23
+#
+##Valeur: 4124833837
+##Qualité:0.969186
+#
+#Individu :24
+#
+##Valeur: 4124833838
+##Qualité:0.969186
+#
+#Individu :25
+#
+##Valeur: 4124825663
+##Qualité:0.969183
+#
+#Individu :26
+#
+##Valeur: 4124694575
+##Qualité:0.969136
+#
+#Individu :27
+#
+##Valeur: 4123781295
+##Qualité:0.968806
+#
+#Individu :28
+#
+##Valeur: 4116682940
+##Qualité:0.966180
+#
+#Individu :29
+#
+##Valeur: 4291812365
+##Qualité:0.999989
+#
+#Individu :30
+#
+##Valeur: 4259309615
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259309709
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259305518
+##Qualité:0.998639
+#
+génération 12
+#Individu :1
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313709
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259309615
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259309709
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259309709
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259301421
+##Qualité:0.998639
+#
+#Individu :7
+#
+##Valeur: 4259051566
+##Qualité:0.998620
+#
+#Individu :8
+#
+##Valeur: 4259049534
+##Qualité:0.998620
+#
+#Individu :9
+#
+##Valeur: 4259049647
+##Qualité:0.998620
+#
+#Individu :10
+#
+##Valeur: 4259049535
+##Qualité:0.998620
+#
+#Individu :11
+#
+##Valeur: 4259047471
+##Qualité:0.998620
+#
+#Individu :12
+#
+##Valeur: 4258985996
+##Qualité:0.998615
+#
+#Individu :13
+#
+##Valeur: 4258986012
+##Qualité:0.998615
+#
+#Individu :14
+#
+##Valeur: 4258004013
+##Qualité:0.998538
+#
+#Individu :15
+#
+##Valeur: 4254857406
+##Qualité:0.998279
+#
+#Individu :16
+#
+##Valeur: 4250912828
+##Qualité:0.997924
+#
+#Individu :17
+#
+##Valeur: 4242532492
+##Qualité:0.997059
+#
+#Individu :18
+#
+##Valeur: 4241488957
+##Qualité:0.996941
+#
+#Individu :19
+#
+##Valeur: 4192204861
+##Qualité:0.988721
+#
+#Individu :20
+#
+##Valeur: 4183808172
+##Qualité:0.986807
+#
+#Individu :21
+#
+##Valeur: 4179622045
+##Qualité:0.985797
+#
+#Individu :22
+#
+##Valeur: 4179351598
+##Qualité:0.985731
+#
+#Individu :23
+#
+##Valeur: 4157332655
+##Qualité:0.979798
+#
+#Individu :24
+#
+##Valeur: 4125091903
+##Qualité:0.969279
+#
+#Individu :25
+#
+##Valeur: 4124825743
+##Qualité:0.969183
+#
+#Individu :26
+#
+##Valeur: 4124825642
+##Qualité:0.969183
+#
+#Individu :27
+#
+##Valeur: 4124825645
+##Qualité:0.969183
+#
+#Individu :28
+#
+##Valeur: 4123785391
+##Qualité:0.968807
+#
+#Individu :29
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313709
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259309615
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259309709
+##Qualité:0.998640
+#
+génération 13
+#Individu :1
+#
+##Valeur: 4259313709
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313820
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259310639
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259309757
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259309708
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259248172
+##Qualité:0.998635
+#
+#Individu :8
+#
+##Valeur: 4259244079
+##Qualité:0.998635
+#
+#Individu :9
+#
+##Valeur: 4259052591
+##Qualité:0.998620
+#
+#Individu :10
+#
+##Valeur: 4259051566
+##Qualité:0.998620
+#
+#Individu :11
+#
+##Valeur: 4259049647
+##Qualité:0.998620
+#
+#Individu :12
+#
+##Valeur: 4259047469
+##Qualité:0.998620
+#
+#Individu :13
+#
+##Valeur: 4259047614
+##Qualité:0.998620
+#
+#Individu :14
+#
+##Valeur: 4259047471
+##Qualité:0.998620
+#
+#Individu :15
+#
+##Valeur: 4259047452
+##Qualité:0.998620
+#
+#Individu :16
+#
+##Valeur: 4258265134
+##Qualité:0.998559
+#
+#Individu :17
+#
+##Valeur: 4258002990
+##Qualité:0.998538
+#
+#Individu :18
+#
+##Valeur: 4257998893
+##Qualité:0.998538
+#
+#Individu :19
+#
+##Valeur: 4257937469
+##Qualité:0.998533
+#
+#Individu :20
+#
+##Valeur: 4257930429
+##Qualité:0.998533
+#
+#Individu :21
+#
+##Valeur: 4250916908
+##Qualité:0.997924
+#
+#Individu :22
+#
+##Valeur: 4250912828
+##Qualité:0.997924
+#
+#Individu :23
+#
+##Valeur: 4250912812
+##Qualité:0.997924
+#
+#Individu :24
+#
+##Valeur: 4250585116
+##Qualité:0.997893
+#
+#Individu :25
+#
+##Valeur: 4242536620
+##Qualité:0.997060
+#
+#Individu :26
+#
+##Valeur: 4179357887
+##Qualité:0.985732
+#
+#Individu :27
+#
+##Valeur: 4125092015
+##Qualité:0.969279
+#
+#Individu :28
+#
+##Valeur: 4125091869
+##Qualité:0.969279
+#
+#Individu :29
+#
+##Valeur: 4259313709
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313820
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259310639
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+génération 14
+#Individu :1
+#
+##Valeur: 4259313676
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259309740
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259309742
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259309741
+##Qualité:0.998640
+#
+#Individu :8
+#
+##Valeur: 4259236013
+##Qualité:0.998634
+#
+#Individu :9
+#
+##Valeur: 4259051532
+##Qualité:0.998620
+#
+#Individu :10
+#
+##Valeur: 4259051567
+##Qualité:0.998620
+#
+#Individu :11
+#
+##Valeur: 4259047487
+##Qualité:0.998620
+#
+#Individu :12
+#
+##Valeur: 4259047470
+##Qualité:0.998620
+#
+#Individu :13
+#
+##Valeur: 4259047486
+##Qualité:0.998620
+#
+#Individu :14
+#
+##Valeur: 4258981934
+##Qualité:0.998615
+#
+#Individu :15
+#
+##Valeur: 4258981902
+##Qualité:0.998615
+#
+#Individu :16
+#
+##Valeur: 4258265148
+##Qualité:0.998559
+#
+#Individu :17
+#
+##Valeur: 4258261038
+##Qualité:0.998559
+#
+#Individu :18
+#
+##Valeur: 4258002991
+##Qualité:0.998538
+#
+#Individu :19
+#
+##Valeur: 4257937597
+##Qualité:0.998533
+#
+#Individu :20
+#
+##Valeur: 4250921132
+##Qualité:0.997925
+#
+#Individu :21
+#
+##Valeur: 4250921006
+##Qualité:0.997925
+#
+#Individu :22
+#
+##Valeur: 4250917935
+##Qualité:0.997924
+#
+#Individu :23
+#
+##Valeur: 4250916908
+##Qualité:0.997924
+#
+#Individu :24
+#
+##Valeur: 4249876526
+##Qualité:0.997825
+#
+#Individu :25
+#
+##Valeur: 4249868461
+##Qualité:0.997824
+#
+#Individu :26
+#
+##Valeur: 4246462655
+##Qualité:0.997483
+#
+#Individu :27
+#
+##Valeur: 4242532396
+##Qualité:0.997059
+#
+#Individu :28
+#
+##Valeur: 4188010559
+##Qualité:0.987784
+#
+#Individu :29
+#
+##Valeur: 4259313676
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259309740
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259309742
+##Qualité:0.998640
+#
+génération 15
+#Individu :1
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259309741
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259309740
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :8
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :9
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :10
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :11
+#
+##Valeur: 4259244078
+##Qualité:0.998635
+#
+#Individu :12
+#
+##Valeur: 4259244079
+##Qualité:0.998635
+#
+#Individu :13
+#
+##Valeur: 4259244079
+##Qualité:0.998635
+#
+#Individu :14
+#
+##Valeur: 4259051694
+##Qualité:0.998620
+#
+#Individu :15
+#
+##Valeur: 4259045551
+##Qualité:0.998620
+#
+#Individu :16
+#
+##Valeur: 4258986173
+##Qualité:0.998615
+#
+#Individu :17
+#
+##Valeur: 4250925228
+##Qualité:0.997925
+#
+#Individu :18
+#
+##Valeur: 4250921006
+##Qualité:0.997925
+#
+#Individu :19
+#
+##Valeur: 4250921004
+##Qualité:0.997925
+#
+#Individu :20
+#
+##Valeur: 4250916911
+##Qualité:0.997924
+#
+#Individu :21
+#
+##Valeur: 4250912815
+##Qualité:0.997924
+#
+#Individu :22
+#
+##Valeur: 4249876653
+##Qualité:0.997825
+#
+#Individu :23
+#
+##Valeur: 4249876526
+##Qualité:0.997825
+#
+#Individu :24
+#
+##Valeur: 4249872428
+##Qualité:0.997825
+#
+#Individu :25
+#
+##Valeur: 4249868461
+##Qualité:0.997824
+#
+#Individu :26
+#
+##Valeur: 4249868333
+##Qualité:0.997824
+#
+#Individu :27
+#
+##Valeur: 4249864367
+##Qualité:0.997824
+#
+#Individu :28
+#
+##Valeur: 4249614398
+##Qualité:0.997800
+#
+#Individu :29
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259309741
+##Qualité:0.998640
+#
+génération 16
+#Individu :1
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :8
+#
+##Valeur: 4259309740
+##Qualité:0.998640
+#
+#Individu :9
+#
+##Valeur: 4259309742
+##Qualité:0.998640
+#
+#Individu :10
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :11
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :12
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :13
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :14
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :15
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :16
+#
+##Valeur: 4259248301
+##Qualité:0.998635
+#
+#Individu :17
+#
+##Valeur: 4259244206
+##Qualité:0.998635
+#
+#Individu :18
+#
+##Valeur: 4258986157
+##Qualité:0.998615
+#
+#Individu :19
+#
+##Valeur: 4258265134
+##Qualité:0.998559
+#
+#Individu :20
+#
+##Valeur: 4258261165
+##Qualité:0.998559
+#
+#Individu :21
+#
+##Valeur: 4258252974
+##Qualité:0.998558
+#
+#Individu :22
+#
+##Valeur: 4258195502
+##Qualité:0.998553
+#
+#Individu :23
+#
+##Valeur: 4250925102
+##Qualité:0.997925
+#
+#Individu :24
+#
+##Valeur: 4250925101
+##Qualité:0.997925
+#
+#Individu :25
+#
+##Valeur: 4250917037
+##Qualité:0.997924
+#
+#Individu :26
+#
+##Valeur: 4250855471
+##Qualité:0.997919
+#
+#Individu :27
+#
+##Valeur: 4250855470
+##Qualité:0.997919
+#
+#Individu :28
+#
+##Valeur: 4249876652
+##Qualité:0.997825
+#
+#Individu :29
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+génération 17
+#Individu :1
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259313839
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :8
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :9
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :10
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :11
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :12
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :13
+#
+##Valeur: 4259309613
+##Qualité:0.998640
+#
+#Individu :14
+#
+##Valeur: 4259309742
+##Qualité:0.998640
+#
+#Individu :15
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :16
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :17
+#
+##Valeur: 4259248302
+##Qualité:0.998635
+#
+#Individu :18
+#
+##Valeur: 4259244206
+##Qualité:0.998635
+#
+#Individu :19
+#
+##Valeur: 4259244076
+##Qualité:0.998635
+#
+#Individu :20
+#
+##Valeur: 4258986028
+##Qualité:0.998615
+#
+#Individu :21
+#
+##Valeur: 4258265132
+##Qualité:0.998559
+#
+#Individu :22
+#
+##Valeur: 4258265134
+##Qualité:0.998559
+#
+#Individu :23
+#
+##Valeur: 4258261165
+##Qualité:0.998559
+#
+#Individu :24
+#
+##Valeur: 4258261166
+##Qualité:0.998559
+#
+#Individu :25
+#
+##Valeur: 4250925101
+##Qualité:0.997925
+#
+#Individu :26
+#
+##Valeur: 4250925229
+##Qualité:0.997925
+#
+#Individu :27
+#
+##Valeur: 4250925228
+##Qualité:0.997925
+#
+#Individu :28
+#
+##Valeur: 4250921004
+##Qualité:0.997925
+#
+#Individu :29
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259313839
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+génération 18
+#Individu :1
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259313839
+##Qualité:0.998640
+#
+#Individu :8
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :9
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :10
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :11
+#
+##Valeur: 4259313839
+##Qualité:0.998640
+#
+#Individu :12
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :13
+#
+##Valeur: 4259313838
+##Qualité:0.998640
+#
+#Individu :14
+#
+##Valeur: 4259313839
+##Qualité:0.998640
+#
+#Individu :15
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :16
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :17
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :18
+#
+##Valeur: 4259309742
+##Qualité:0.998640
+#
+#Individu :19
+#
+##Valeur: 4259248301
+##Qualité:0.998635
+#
+#Individu :20
+#
+##Valeur: 4259244078
+##Qualité:0.998635
+#
+#Individu :21
+#
+##Valeur: 4258265260
+##Qualité:0.998559
+#
+#Individu :22
+#
+##Valeur: 4258261164
+##Qualité:0.998559
+#
+#Individu :23
+#
+##Valeur: 4258261166
+##Qualité:0.998559
+#
+#Individu :24
+#
+##Valeur: 4258261039
+##Qualité:0.998559
+#
+#Individu :25
+#
+##Valeur: 4258195629
+##Qualité:0.998553
+#
+#Individu :26
+#
+##Valeur: 4250925229
+##Qualité:0.997925
+#
+#Individu :27
+#
+##Valeur: 4250925228
+##Qualité:0.997925
+#
+#Individu :28
+#
+##Valeur: 4250921132
+##Qualité:0.997925
+#
+#Individu :29
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+génération 19
+#Individu :1
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :2
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :3
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :4
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :5
+#
+##Valeur: 4259313839
+##Qualité:0.998640
+#
+#Individu :6
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :7
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :8
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :9
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :10
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :11
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :12
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :13
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :14
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :15
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :16
+#
+##Valeur: 4259313708
+##Qualité:0.998640
+#
+#Individu :17
+#
+##Valeur: 4259309614
+##Qualité:0.998640
+#
+#Individu :18
+#
+##Valeur: 4259309740
+##Qualité:0.998640
+#
+#Individu :19
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :20
+#
+##Valeur: 4259309612
+##Qualité:0.998640
+#
+#Individu :21
+#
+##Valeur: 4259244078
+##Qualité:0.998635
+#
+#Individu :22
+#
+##Valeur: 4258265263
+##Qualité:0.998559
+#
+#Individu :23
+#
+##Valeur: 4258265262
+##Qualité:0.998559
+#
+#Individu :24
+#
+##Valeur: 4258261164
+##Qualité:0.998559
+#
+#Individu :25
+#
+##Valeur: 4258195502
+##Qualité:0.998553
+#
+#Individu :26
+#
+##Valeur: 4258195629
+##Qualité:0.998553
+#
+#Individu :27
+#
+##Valeur: 4258195630
+##Qualité:0.998553
+#
+#Individu :28
+#
+##Valeur: 4250925100
+##Qualité:0.997925
+#
+#Individu :29
+#
+##Valeur: 4259313836
+##Qualité:0.998640
+#
+#Individu :30
+#
+##Valeur: 4259313710
+##Qualité:0.998640
+#
+#Individu :31
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+#Individu :32
+#
+##Valeur: 4259313837
+##Qualité:0.998640
+#
+Meilleur individu de la population avec 32 individu, 20 génération, 28 meilleurs individus séléctionné et un breed à 50 de croisement à :
+ -une valeur de :4259313837
+ -une qualité de 0.998640
+
+il y as aussi une plutot forte homogénéisation des valeur mais pas vers une seule valeur a cause de la périodicité de cos 

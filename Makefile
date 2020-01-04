@@ -35,11 +35,11 @@ all: $(MAIN)
 
 $(MAIN): $(TARGET) $(OBJS) $(DLIBS)
 	@echo compilation du main
-	$(CC) $(CFLAGS) $(INCLUDES) -o $(MAIN) $(TARGET) $(OBJS) $(DLIBS) $(LFLAGS) $(LIBS) 
+	$(CC) $(CFLAGS) $(DLIBS) $(OBJS) -o $(MAIN) $(TARGET) $(INCLUDES) $(LIBS) $(LFLAGS) 
 
 .c.o:
 	@echo compilage de $< vers $@
-	$(CC) $(CFLAGS) $(INCLUDES) $(LIBS) $(LFLAGS) -c $< -o $@
+	$(CC) $(CFLAGS) $(INCLUDES) -c $< -o $@
 
 .c.so:
 	@echo Création de la Librairie $@
@@ -55,9 +55,6 @@ cleanall:
 
 debug: dbg all
 	gdb ./$(MAIN)
-
-dbg:
-CFLAGS+= $(CDEBUGF)
 
 lib: $(DLIBS)
 	@echo Lib compiler
@@ -79,3 +76,6 @@ run: $(MAIN)
 wrun:
 	$(MAIN).exe
 
+
+dbg:
+CFLAGS += $(CDEBUGF)

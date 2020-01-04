@@ -3,10 +3,11 @@
 
 #include "../bits/bits.h"
 #include "random.h"
+#include <math.h>
 
 #define longIndiv 32
-#define A -3.141592653589793238462643383279502884197169399375105820974944
-#define B 3.141592653589793238462643383279502884197169399375105820974944
+#define A -1*M_PI
+#define B M_PI
 
 typedef Bits* Individu;
 
