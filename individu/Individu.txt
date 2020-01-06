@@ -91,25 +91,6 @@ Début
 |individu_copycat<-Stock
 Fin
 
-Individu individu_copycat(Individu I){
-    Individu N = NULL,Stock=NULL;
-    Bits* p=I;
-    if (p){
-        N=bits_init(p->value);
-        Stock=N;
-        p=p->next;
-    }
-    while (p){
-        N->next=bits_init(p->value);
-        N=N->next;
-        p=p->next;
-    }
-    if (N){
-        N->next=NULL;
-    }
-    return Stock;
-}
-
 Données
 A,B deux entier paramètre
 Value un entier représentant la valeur d'un individu
