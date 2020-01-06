@@ -14,18 +14,18 @@ typedef struct population {
     Elem* end;
 } Population;
 
-Population pop_init(int);
+Population pop_init(int); // créé une lsite d'individu que l'on a stocké dans cet objet
 
-Elem* elem_init();
+Elem* elem_init(); //créer un élement vide
 
-void elem_vinit(Elem*);
+void elem_vinit(Elem*); // initialise les valeurs d'un élement
 
 Population quick(Population);/*trie la population puis renvoie la version triée, ne bouge que les valeurs donc la réafectation est optionnelle*/
 
-void tronc(Population, int, int);
+void tronc(Population, int, int); // gère la selection des individu
 
-void pop_del(Population);
+void pop_del(Population); // permet de supprimer le contenu d'une population
 
-Population pop_breed(Population, int, int);
+Population pop_breed(Population, int, int); // croise une population afin d'en faire une seconde
 
 #endif
