@@ -68,14 +68,14 @@ void pop_del(Population pop){
 	pop.end=NULL;
 }
 
-Population pop_breed(Population pops, int taillePOP,int pcroise){
+Population pop_breed(Population pope, int taillePOP,int pcroise){
 	
-	Population pope;
+	Population pops;
 	Elem* Eprev=elem_init();
-	pope.start=Eprev;
-	Elem* elem1, *elem2,*E;
-	elem1=pops.start;
-	elem2=pops.start;
+	pops.start=Eprev;
+	Elem* elem1, elem2,E;
+	elem1=pope.start;
+	elem2=pope.start;
 	
 	int rg1, rg2,i,p=0 ;
 	
@@ -103,11 +103,11 @@ Population pop_breed(Population pops, int taillePOP,int pcroise){
 			E->prev=Eprev;
 			Eprev=E;
 		}
-		elem1=pops.start;
-		elem2=pops.start;
+		elem1=pope.start;
+		elem2=pope.start;
 		p++;
 	}
 	
-	pope.end=E;
-	return (pope);
+	pops.end=E;
+	return (pops);
 }
