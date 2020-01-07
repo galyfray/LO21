@@ -4,8 +4,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void pop_display(Population);
-void pop_out(FILE*,Population);
 
 int main(){
     int ngen=20,select=28;
@@ -19,7 +17,7 @@ int main(){
 		p=pp;
 	}
 
-	printf("Meilleur individu de la population avec %i individu, %i génération, %i meilleurs individus séléctionné et un breed à %i de croisement à :\n -une valeur de :%li\n -une qualité de %.6f\n",taillepop,ngen,select,pcroise,individu_toint(p.start->individus),p.start->qual);
+	printf("Meilleur individu de la population avec %i individu, %i generation, %i meilleurs individus selectionne et un breed a %i de croisement a :\n -une valeur de :%li\n -une qualite de %.6f\n",taillepop,ngen,select,pcroise,individu_toint(p.start->individus),p.start->qual);
  	
     return 0;
 }

@@ -36,5 +36,3 @@ Population quick(Population pop){
     }
     return pop;
 }
-zhi.yan@utbm.fr
-nathan.crombez@utbm.fr

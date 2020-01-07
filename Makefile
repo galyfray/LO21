@@ -73,7 +73,7 @@ wdebug: dbg all
 run: $(MAIN)
 	./$(MAIN)
 
-wrun:
+wrun: $(MAIN)
 	$(MAIN).exe
 
 

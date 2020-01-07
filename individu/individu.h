@@ -25,6 +25,5 @@ float quality(int,float,float,int); /*calcule la qualité d'un individu a partir 
 
 void individu_free(Individu); /* Libère l'espace prise par un individu et tout les bits qui le compose*/
 
-void individu_print(Individu); /*Imprime un individu uniquement pour debug la liste de bits composant l'individu sont écris a l'enver*/
 
 #endif
