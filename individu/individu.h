@@ -5,9 +5,9 @@
 #include "random.h"
 #include <math.h>
 
-#define longIndiv 32
-#define A -1*M_PI
-#define B M_PI
+#define longIndiv 8
+#define A -1
+#define B 1
 
 typedef Bits* Individu;
 

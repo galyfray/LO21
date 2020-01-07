@@ -36,7 +36,7 @@ float quality(int Value,float p1,float p2,int length){
         P=2*P;
     }
     float X=((float)Value/P)*(p2-p1)+p1;
-    return -1*cos(X);
+    return -1*(X*X);
 }
 
 void individu_free(Individu BL){
@@ -46,17 +46,6 @@ void individu_free(Individu BL){
         free(BL);
         BL=next;
     }
-}
-
-void individu_print(Individu BL){//uniquement pour du debug
-    int V=individu_toint(BL);
-    float Q=quality(V,-1,1,longIndiv);
-    printf("#============#\n#Pointeur: %08lx\n#Value: %i\n#Quality: %.4f\n#BitList:",(long unsigned int)BL,V,Q);
-    while (BL!=NULL){//imprime les bits a l'enver
-        printf("%d",BL->value);
-        BL=BL->next;
-    }
-    printf("\n#============#\n");
 }
 
 Individu individu_copycat(Individu I){

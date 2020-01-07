@@ -39,7 +39,7 @@ Debut
 |pour i de 1 à taillePOP faire
 ||E<-Elem_init()
 ||Elem_vinit(E)
-||Eprev->Elem_next<-E
+||Elem_next(Eprev)<-E
 ||E->Elem_prev<-Eprev
 ||Eprev<-E
 |Fait

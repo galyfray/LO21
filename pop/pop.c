@@ -73,7 +73,7 @@ Population pop_breed(Population pope, int taillePOP,int pcroise){
 	Population pops;
 	Elem* Eprev=elem_init();
 	pops.start=Eprev;
-	Elem* elem1, elem2,E; // l'on créer donc deux element de lecture, elem1 et eleme2 et un autre element nous permetans de batir element par element la nouvelle population
+	Elem* elem1, *elem2,*E; // l'on créer donc deux element de lecture, elem1 et eleme2 et un autre element nous permetans de batir element par element la nouvelle population
 	elem1=pope.start;
 	elem2=pope.start;
 	
