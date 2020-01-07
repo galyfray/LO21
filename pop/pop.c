@@ -68,7 +68,7 @@ void pop_del(Population pop){
 	pop.end=NULL;
 }
 
-Population pop_breed(Population pope, int taillePOP,int pcroise){
+Population pop_breed(Population pope, int taillePOP,int pcrois){
 	
 	Population pops;
 	Elem* Eprev=elem_init();
@@ -95,7 +95,7 @@ Population pop_breed(Population pope, int taillePOP,int pcroise){
 			elem2=elem2->next;
 		}		
 		Eprev->individus= individu_copycat(elem1->individus); //on copie le premier element de lecture dans l'element en cour de creation
-		individu_breed(Eprev->individus,elem2->individus,pcroise); // on croise l'element en cours de creation contenant une copie d'elem1 avec elem2
+		individu_breed(Eprev->individus,elem2->individus,pcrois); // on croise l'element en cours de creation contenant une copie d'elem1 avec elem2
 		Eprev->qual=quality(individu_toint(Eprev->individus),A,B,longIndiv); // on calcule la qualité du nouvel element
 		if(p!=taillePOP-1){ // on s'assure de ne pas créer une nouvelle population trop importante.
 			E=elem_init();

@@ -15,7 +15,6 @@ typedef struct population {
 } Population;
 
 #define taillepop 32
-
 #define pcroise 50
 
 Population pop_init(int); // créé une lsite d'individu que l'on a stocké dans cet objet
