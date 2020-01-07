@@ -8,7 +8,7 @@ void pop_display(Population);
 void pop_out(FILE*,Population);
 
 int main(){
-    int ngen=20,select=28,taillepop=32,pcroise=50;
+    int ngen=20,select=28;
 	Population pp;
     Population p=pop_init(taillepop);
 	for(int n=0;n<ngen;n++){
