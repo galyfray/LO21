@@ -1,0 +1,179 @@
+Definition du type Elem:
+#Type Elem
+#constructeur:
+#|Elem_init         :                 ->Elem, créer un Element vide
+#|Elem_vinit		: Elem x Individu ->Elem, initialise la liste d'individu et sa qualite
+#Observateurs et fonctions d’accès
+#|Elem_val  		:Elem -> Individu  ,permet d'accèder a l'individu
+#|Elem_qualite 		:Elem -> int  ,permet d'accèder a la qualité de l'individu
+#|Elem_next 		:Elem -> Elem  ,permet d'accèder a l'Element suivant
+#|Elem_prev 		:Elem -> Elem  ,permet d'accèder a l'Element précedant
+#Fin Type
+
+Definition du type Population:
+#Type Population
+#constructeur:
+#|pop_init          :              		   		->Population, crée une population d'individus
+#|tronc				: Population x int x int 	->effectue la sélection d'individus
+#|quick          	: Population   		   		->Population, trie la liste d'individu en fonction de sa qualité
+#|pop_del			: Population 				->supprime une population
+#|pop_breed			: Population x int x int 	->Population, effectue le croisement de la population
+#Observateurs et fonctions d’accès
+#|Population_start 	:Population -> Elem  ,permet d'accèder au premier Element
+#|Population_end 	:Population -> Elem  ,permet d'accèder au dernier Element
+#Fin Type
+
+==============================================================
+
+Données
+taillePOP le nombre d'individus d'une Population
+résulat
+pop un objet Population contenant une liste d'individus
+
+fonction pop_init(entier taillePOP) Population
+Debut
+|Population pop
+|Elem Eprev<-Elem_init()
+|Population_start(pop)=Eprev
+|Elem_vinit(Eprev)
+|pour i de 1 à taillePOP faire
+||E<-Elem_init()
+||Elem_vinit(E)
+||Elem_next(Eprev)<-E
+||Elem_prev(E)<-Eprev
+||Eprev<-E
+|Fait
+|Population_end(pop)=E
+Fin
+
+==============================================================
+
+Données
+aucunes
+Résulat
+E un Elem représentant un individu de la liste
+
+fonction Elem_init() Elem
+|Elem E
+|Elem_prev(E)=NULL
+|Elem_next(E)=NULL
+|Retourner E
+Fin
+
+==============================================================
+
+Données
+E l'Elem auquel il faut créer des valeurs
+Résulat
+aucuns
+
+fonction Elem_vinit(Elem E) vide
+|Elem_val(E)=individu_rinit(longIndiv)
+|Elem_qualite(E)=quality(individu_toint(Elem_val(E)),A,B,longIndiv)
+Fin
+
+==============================================================
+
+Données
+pop la Population à sélectionner
+tselect le nombre d'individu à copier
+taillePOP la taille de la population
+Résulat
+aucuns
+
+fonction tronc(Population pop, int tselect, int taillePOP) vide
+|Elem Ecpy = Population_start(pop)
+|Elem Emob = Population_start(pop) 
+|int c=0
+|int t=tselect
+|pour i de 1 à tselect faire
+||Emob <- Elem_next(Emob)
+|Fait
+|tant que (Emob different de NULL ET t<taillePOP) faire
+||tant que (Emob different de NULL ET c<tselect) faire
+|||c=c+1
+|||t=t+1
+|||Elem_val(Emob)<-individu_copycat(Elem_val(Ecpy))
+|||Emob<-Elem_next(Emob)
+|||Ecpy<-Elem_next(Ecpy)
+||Fait
+||Ecpy=Population_start(pop)
+||c=0
+|Fait
+Fin
+
+==============================================================
+
+Données
+pop la Population à supprimer
+Résulat
+aucuns
+
+fonction pop_del(Population pop) vide
+|Elem E=Population_start(pop)
+|Elem Enext
+|tant que (Elem_next(E) est different de NULL) faire
+||Enext=Elem_next(E)
+||individu_free(Elem_val(E))
+||free(E)
+||E=Enext
+|Fait
+|individu_free(Elem_val(E))
+|free(E)
+|Population_start(pop)=NULL
+|Population_end(pop)=NULL
+Fin
+
+==============================================================
+
+Données
+pope la Population originelle
+taillePOP la taille de la population
+pcroise la probabilité de croisement
+Résulat
+pops la nouvelle population
+
+fonction tronc(Population pop, int tselect, int pcroise) Population
+|
+|Population pops
+|Elem Eprev=Elem_init()
+|Population_start(pops)=Eprev
+|Elem Elem1=Population_start(pope)
+|Elem Elem2=Population_start(pope)
+|Elem E
+|int rg1
+|int rg2
+|int p=0
+|
+|tant que (p<taillePOP) faire
+||rg1=(random()%taillePOP)
+||rg2=rg1
+||tant que (rg2=rg1) faire
+|||rg2=(random()%taillePOP)
+||Fait
+||
+||pour i allant de 1 à rg1 faire
+|||Elem1=Elem_next(Elem1)
+||Fait
+|
+||pour i allant de 1 à rg2 faire
+|||Elem2=Elem_next(Elem2)
+||Fait
+||
+||Elem_val(Eprev)=individu_copycat(Elem_val(Elem1))
+||individu_breed(Elem_val(Eprev),Elem_val(Elem2,pcroise)
+||Elem_qualite(Eprev)=quality(individu_toint(Elem_val(Eprev)),A,B,longIndiv)
+||
+||Si(p est different de (taillePOP-1)) Alors
+|||E=Elem_init()
+|||Elem_next(Eprev)=E
+|||Elem_prev(E)=Eprev
+|||Eprev=E
+||Fait
+||Elem Elem1=Population_start(pope)
+||Elem Elem2=Population_start(pope)
+||p=p+1
+|Fait
+|
+|Population_end(pops)=E
+Fin
