@@ -17,8 +17,8 @@ int main(){
 		tronc(pp,select,taillepop);
 		pop_del(p);
 		p=pp;
-		
 	}
+
 	printf("Meilleur individu de la population avec %i individu, %i génération, %i meilleurs individus séléctionné et un breed à %i de croisement à :\n -une valeur de :%li\n -une qualité de %.6f\n",taillepop,ngen,select,pcroise,individu_toint(p.start->individus),p.start->qual);
  	
     return 0;
